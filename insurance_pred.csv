@@ -1,0 +1,987 @@
+,Age,Diabetes,BP_problems,Transplants,Chronic_ds,Height,Weight,Allergies,Cancer_hist,Surgery_nos,PremiumPrice,age_cat,premium_cat,BMI,bmi_cat
+0,45,0,0,0,0,155,57,0,0,0,25000,middle aged adults,medium,23.73,Normal
+1,60,1,0,0,0,180,73,0,0,0,29000,senior citizens,medium,22.53,Normal
+2,36,1,1,0,0,158,59,0,0,1,23000,middle aged adults,medium,23.63,Normal
+3,52,1,1,0,1,183,93,0,0,2,28000,middle aged adults,medium,27.77,Overweight
+4,38,0,0,0,1,166,88,0,0,1,23000,middle aged adults,medium,31.93,Obesity
+5,30,0,0,0,0,160,69,1,0,1,23000,Young-adults,medium,26.95,Overweight
+6,33,0,0,0,0,150,54,0,0,0,21000,Young-adults,medium,24.0,Normal
+7,23,0,0,0,0,181,79,1,0,0,15000,Youth,,24.11,Normal
+8,48,1,0,0,0,169,74,1,0,0,23000,middle aged adults,medium,25.91,Overweight
+9,38,0,0,0,0,182,93,0,0,0,23000,middle aged adults,medium,28.08,Overweight
+10,60,0,1,0,0,175,74,0,0,2,28000,senior citizens,medium,24.16,Normal
+11,66,1,0,0,0,186,67,0,0,0,25000,senior citizens,medium,19.37,Normal
+12,24,0,0,0,0,178,57,1,0,1,15000,Youth,,17.99,Underweight
+13,46,0,1,0,0,184,97,0,0,0,35000,middle aged adults,high,28.65,Overweight
+14,18,0,0,1,0,150,76,0,0,1,15000,,,33.78,Obesity
+15,38,0,0,0,0,160,68,1,0,1,23000,middle aged adults,medium,26.56,Overweight
+16,42,0,0,0,1,149,67,0,0,0,30000,middle aged adults,medium,30.18,Obesity
+17,38,1,0,0,0,154,82,0,0,0,23000,middle aged adults,medium,34.58,Obesity
+18,57,1,0,0,0,156,61,0,0,0,25000,senior citizens,medium,25.07,Overweight
+19,21,0,1,0,0,186,97,0,0,0,15000,Youth,,28.04,Overweight
+20,49,1,0,0,0,160,97,0,0,2,28000,middle aged adults,medium,37.89,Obesity
+21,20,1,0,0,0,181,81,0,0,0,15000,Youth,,24.72,Normal
+22,35,0,0,0,0,163,92,0,0,1,32000,Young-adults,high,34.63,Obesity
+23,35,0,1,0,0,175,83,0,0,1,23000,Young-adults,medium,27.1,Overweight
+24,53,0,1,0,0,151,97,0,1,1,35000,middle aged adults,high,42.54,Extreme Obesity
+25,31,0,0,0,0,172,57,0,0,0,21000,Young-adults,medium,19.27,Normal
+26,22,0,0,1,0,151,97,0,0,0,15000,Youth,,42.54,Extreme Obesity
+27,60,0,1,0,0,151,88,0,0,2,28000,senior citizens,medium,38.59,Obesity
+28,30,0,0,0,1,162,73,1,0,0,23000,Young-adults,medium,27.82,Overweight
+29,33,1,1,0,1,153,58,0,0,0,21000,Young-adults,medium,24.78,Normal
+30,22,0,0,0,0,168,96,1,0,1,15000,Youth,,34.01,Obesity
+31,26,0,1,0,1,152,91,0,0,0,19000,Young-adults,low,39.39,Obesity
+32,28,0,0,0,0,158,68,0,0,0,15000,Young-adults,,27.24,Overweight
+33,26,0,0,0,0,154,88,0,0,0,15000,Young-adults,,37.11,Obesity
+34,64,1,0,0,0,172,85,0,0,3,28000,senior citizens,medium,28.73,Overweight
+35,50,0,0,0,0,161,79,0,0,2,28000,middle aged adults,medium,30.48,Obesity
+36,44,1,0,0,0,157,55,0,0,0,23000,middle aged adults,medium,22.31,Normal
+37,58,0,1,0,1,147,61,0,0,1,25000,senior citizens,medium,28.23,Overweight
+38,43,0,0,0,1,173,81,0,1,1,30000,middle aged adults,medium,27.06,Overweight
+39,24,1,1,1,0,168,91,1,0,0,15000,Youth,,32.24,Obesity
+40,20,0,1,0,0,163,68,0,0,0,15000,Youth,,25.59,Overweight
+41,66,1,1,0,0,179,96,0,0,2,28000,senior citizens,medium,29.96,Overweight
+42,25,0,1,0,0,184,55,0,1,1,15000,Youth,,16.25,Underweight
+43,52,0,0,0,0,181,82,1,0,1,29000,middle aged adults,medium,25.03,Overweight
+44,26,1,0,0,0,165,57,0,0,0,15000,Young-adults,,20.94,Normal
+45,44,0,1,0,0,178,78,1,0,1,23000,middle aged adults,medium,24.62,Normal
+46,25,1,1,0,0,179,69,0,0,0,32000,Youth,high,21.53,Normal
+47,54,1,0,0,1,174,96,0,0,0,35000,middle aged adults,high,31.71,Obesity
+48,64,0,1,0,0,156,56,0,0,1,25000,senior citizens,medium,23.01,Normal
+49,20,0,0,0,0,160,83,0,0,0,15000,Youth,,32.42,Obesity
+50,30,0,1,0,0,162,83,0,0,0,23000,Young-adults,medium,31.63,Obesity
+51,63,0,1,0,0,161,77,0,0,2,28000,senior citizens,medium,29.71,Overweight
+52,61,1,1,0,1,185,58,0,0,2,28000,senior citizens,medium,16.95,Underweight
+53,43,0,0,0,0,172,91,0,0,0,32000,middle aged adults,high,30.76,Obesity
+54,58,1,0,0,1,165,59,0,0,0,25000,senior citizens,medium,21.67,Normal
+55,41,1,1,0,0,160,63,0,0,0,23000,middle aged adults,medium,24.61,Normal
+56,60,0,1,0,0,177,75,1,0,0,29000,senior citizens,medium,23.94,Normal
+57,49,1,0,0,0,164,59,0,0,2,28000,middle aged adults,medium,21.94,Normal
+58,23,0,1,0,0,156,79,0,0,0,24000,Youth,medium,32.46,Obesity
+59,46,1,1,0,0,181,72,0,0,0,23000,middle aged adults,medium,21.98,Normal
+60,36,0,1,0,0,154,70,0,0,0,23000,middle aged adults,medium,29.52,Overweight
+61,55,1,1,0,0,148,61,0,0,0,25000,middle aged adults,medium,27.85,Overweight
+62,23,0,1,0,0,169,80,0,0,0,15000,Youth,,28.01,Overweight
+63,31,0,0,0,1,163,78,0,0,0,23000,Young-adults,medium,29.36,Overweight
+64,64,0,1,0,0,170,63,0,0,2,28000,senior citizens,medium,21.8,Normal
+65,26,1,1,0,0,183,79,0,0,1,15000,Young-adults,,23.59,Normal
+66,49,1,1,0,0,154,97,0,0,2,28000,middle aged adults,medium,40.9,Extreme Obesity
+67,19,0,0,0,0,148,60,0,1,1,15000,Youth,,27.39,Overweight
+68,40,0,0,0,0,180,53,0,0,0,23000,middle aged adults,medium,16.36,Underweight
+69,32,0,0,0,0,177,57,0,0,0,21000,Young-adults,medium,18.19,Underweight
+70,27,0,1,0,0,147,53,0,0,1,15000,Young-adults,,24.53,Normal
+71,55,0,1,0,1,157,94,0,0,1,30000,middle aged adults,medium,38.14,Obesity
+72,63,1,0,0,0,150,68,0,0,0,25000,senior citizens,medium,30.22,Obesity
+73,25,1,1,1,1,179,68,0,0,0,38000,Youth,high,21.22,Normal
+74,53,1,0,0,0,154,54,0,0,2,28000,middle aged adults,medium,22.77,Normal
+75,66,1,1,0,0,161,75,0,0,2,28000,senior citizens,medium,28.93,Overweight
+76,23,0,0,0,0,162,84,0,0,1,15000,Youth,,32.01,Obesity
+77,36,1,1,0,0,149,74,1,0,0,23000,middle aged adults,medium,33.33,Obesity
+78,49,1,1,0,0,158,54,1,0,2,28000,middle aged adults,medium,21.63,Normal
+79,30,0,0,1,1,166,87,0,0,0,38000,Young-adults,high,31.57,Obesity
+80,44,0,0,0,0,185,64,0,0,0,23000,middle aged adults,medium,18.7,Normal
+81,63,1,0,0,0,181,54,0,0,0,25000,senior citizens,medium,16.48,Underweight
+82,27,1,1,0,0,149,59,0,0,0,15000,Young-adults,,26.58,Overweight
+83,46,1,0,0,0,187,75,0,0,1,23000,middle aged adults,medium,21.45,Normal
+84,46,1,0,0,0,152,56,0,0,0,25000,middle aged adults,medium,24.24,Normal
+85,31,0,0,0,1,150,81,1,1,1,25000,Young-adults,medium,36.0,Obesity
+86,46,0,1,1,0,152,94,0,1,1,38000,middle aged adults,high,40.69,Extreme Obesity
+87,20,1,1,0,0,167,91,0,1,1,15000,Youth,,32.63,Obesity
+88,35,1,1,0,0,157,67,1,1,1,31000,Young-adults,high,27.18,Overweight
+89,33,0,0,0,1,167,58,0,0,0,21000,Young-adults,medium,20.8,Normal
+90,46,0,0,0,0,178,61,1,1,1,25000,middle aged adults,medium,19.25,Normal
+91,63,1,1,0,0,175,95,0,0,3,28000,senior citizens,medium,31.02,Obesity
+92,52,0,0,0,0,159,76,1,1,1,31000,middle aged adults,high,30.06,Obesity
+93,54,1,1,0,1,185,66,0,0,2,28000,middle aged adults,medium,19.28,Normal
+94,53,1,1,0,0,159,77,0,0,2,28000,middle aged adults,medium,30.46,Obesity
+95,21,0,0,0,0,165,95,1,0,1,15000,Youth,,34.89,Obesity
+96,34,0,1,0,0,162,74,0,0,1,23000,Young-adults,medium,28.2,Overweight
+97,31,0,0,0,1,186,80,0,0,0,23000,Young-adults,medium,23.12,Normal
+98,52,1,0,0,0,161,63,0,0,0,25000,middle aged adults,medium,24.3,Normal
+99,42,0,0,0,0,148,97,0,0,0,23000,middle aged adults,medium,44.28,Extreme Obesity
+100,24,0,0,0,0,170,96,0,1,1,15000,Youth,,33.22,Obesity
+101,45,1,0,1,0,152,91,0,0,0,38000,middle aged adults,high,39.39,Obesity
+102,59,1,1,0,0,160,92,0,1,1,31000,senior citizens,high,35.94,Obesity
+103,21,0,1,0,0,185,56,1,0,0,15000,Youth,,16.36,Underweight
+104,23,0,0,0,0,160,96,0,0,0,15000,Youth,,37.5,Obesity
+105,33,1,0,0,0,168,68,0,0,0,23000,Young-adults,medium,24.09,Normal
+106,60,0,0,0,0,155,58,0,0,0,25000,senior citizens,medium,24.14,Normal
+107,31,0,0,0,0,188,96,1,0,1,23000,Young-adults,medium,27.16,Overweight
+108,28,0,0,0,1,164,75,1,0,1,19000,Young-adults,low,27.89,Overweight
+109,64,1,0,0,0,187,53,0,0,3,28000,senior citizens,medium,15.16,Underweight
+110,55,0,1,0,0,159,91,1,0,1,29000,middle aged adults,medium,36.0,Obesity
+111,35,1,1,0,0,186,58,0,0,0,23000,Young-adults,medium,16.76,Underweight
+112,29,0,0,0,0,154,74,1,1,1,15000,Young-adults,,31.2,Obesity
+113,35,0,0,0,0,165,62,0,0,0,23000,Young-adults,medium,22.77,Normal
+114,47,1,1,0,0,147,76,1,0,1,23000,middle aged adults,medium,35.17,Obesity
+115,25,0,0,0,1,167,70,0,0,1,19000,Youth,low,25.1,Overweight
+116,55,1,0,0,0,182,86,0,0,2,28000,middle aged adults,medium,25.96,Overweight
+117,59,0,1,0,0,163,62,1,0,1,25000,senior citizens,medium,23.34,Normal
+118,66,1,0,0,0,169,55,0,0,0,25000,senior citizens,medium,19.26,Normal
+119,32,0,1,0,0,178,59,1,1,1,21000,Young-adults,medium,18.62,Normal
+120,54,0,1,0,1,164,64,0,0,2,28000,middle aged adults,medium,23.8,Normal
+121,63,0,1,0,0,157,72,0,0,1,29000,senior citizens,medium,29.21,Overweight
+122,38,0,0,0,0,156,72,0,0,0,23000,middle aged adults,medium,29.59,Overweight
+123,23,0,0,0,0,152,90,0,0,0,15000,Youth,,38.95,Obesity
+124,33,0,0,0,0,149,84,0,0,0,23000,Young-adults,medium,37.84,Obesity
+125,31,1,0,1,0,187,95,1,0,0,38000,Young-adults,high,27.17,Overweight
+126,43,0,0,0,1,174,76,0,0,0,30000,middle aged adults,medium,25.1,Overweight
+127,39,0,1,0,0,151,56,1,1,1,31000,middle aged adults,high,24.56,Normal
+128,59,1,0,0,0,154,74,1,0,1,29000,senior citizens,medium,31.2,Obesity
+129,19,1,0,0,0,185,62,0,0,1,15000,Youth,,18.12,Underweight
+130,28,0,1,0,0,171,53,0,1,1,15000,Young-adults,,18.13,Underweight
+131,59,1,1,0,1,167,83,0,0,2,28000,senior citizens,medium,29.76,Overweight
+132,38,1,1,0,0,163,95,0,0,0,23000,middle aged adults,medium,35.76,Obesity
+133,23,1,0,0,0,150,96,0,0,0,15000,Youth,,42.67,Extreme Obesity
+134,34,0,0,0,0,152,91,1,0,1,23000,Young-adults,medium,39.39,Obesity
+135,27,1,0,0,0,186,81,0,0,0,15000,Young-adults,,23.41,Normal
+136,37,0,1,0,0,182,86,0,0,0,23000,middle aged adults,medium,25.96,Overweight
+137,66,1,1,0,0,188,75,0,0,2,28000,senior citizens,medium,21.22,Normal
+138,51,1,0,0,0,183,86,0,0,0,29000,middle aged adults,medium,25.68,Overweight
+139,48,0,1,1,1,176,63,0,0,0,38000,middle aged adults,high,20.34,Normal
+140,40,0,0,0,0,156,95,1,1,1,31000,middle aged adults,high,39.04,Obesity
+141,54,1,0,0,0,151,59,0,0,2,28000,middle aged adults,medium,25.88,Overweight
+142,33,1,1,0,0,149,66,0,0,1,21000,Young-adults,medium,29.73,Overweight
+143,33,0,1,0,0,159,67,0,0,1,21000,Young-adults,medium,26.5,Overweight
+144,59,1,1,0,0,185,81,0,0,2,28000,senior citizens,medium,23.67,Normal
+145,52,1,0,0,0,187,75,0,0,0,29000,middle aged adults,medium,21.45,Normal
+146,35,0,0,0,0,180,65,0,0,0,23000,Young-adults,medium,20.06,Normal
+147,59,0,1,1,0,149,68,0,0,0,38000,senior citizens,high,30.63,Obesity
+148,53,1,1,0,1,154,79,0,0,2,28000,middle aged adults,medium,33.31,Obesity
+149,50,1,1,0,0,147,53,0,0,0,25000,middle aged adults,medium,24.53,Normal
+150,56,0,1,0,0,167,72,0,0,2,28000,senior citizens,medium,25.82,Overweight
+151,47,0,0,0,0,169,116,0,0,1,35000,middle aged adults,high,40.61,Extreme Obesity
+152,57,1,1,0,0,166,70,1,0,1,29000,senior citizens,medium,25.4,Overweight
+153,42,0,0,0,0,171,90,0,0,0,23000,middle aged adults,medium,30.78,Obesity
+154,21,0,0,0,0,157,118,1,0,1,15000,Youth,,47.87,Extreme Obesity
+155,62,1,0,0,1,167,110,0,0,0,35000,senior citizens,high,39.44,Obesity
+156,62,1,1,0,0,164,69,0,0,0,25000,senior citizens,medium,25.65,Overweight
+157,20,0,0,0,0,174,76,0,0,1,15000,Youth,,25.1,Overweight
+158,43,0,0,0,0,158,121,0,0,0,23000,middle aged adults,medium,48.47,Extreme Obesity
+159,46,1,0,0,0,175,69,0,0,0,25000,middle aged adults,medium,22.53,Normal
+160,58,1,1,0,0,180,116,0,0,1,35000,senior citizens,high,35.8,Obesity
+161,19,0,0,0,0,165,78,1,1,1,15000,Youth,,28.65,Overweight
+162,34,1,1,0,0,182,98,0,0,0,23000,Young-adults,medium,29.59,Overweight
+163,53,1,0,0,0,168,73,0,0,1,29000,middle aged adults,medium,25.86,Overweight
+164,29,0,0,0,0,180,76,0,0,0,15000,Young-adults,,23.46,Normal
+165,32,0,0,0,0,167,104,0,0,0,23000,Young-adults,medium,37.29,Obesity
+166,18,0,0,0,0,164,77,0,0,0,15000,,,28.63,Overweight
+167,28,1,0,0,0,181,89,0,0,0,15000,Young-adults,,27.17,Overweight
+168,44,0,0,0,0,175,73,0,0,0,23000,middle aged adults,medium,23.84,Normal
+169,42,1,0,1,0,170,80,0,0,1,38000,middle aged adults,high,27.68,Overweight
+170,48,0,1,0,1,156,92,0,0,0,30000,middle aged adults,medium,37.8,Obesity
+171,30,1,1,0,0,161,80,0,0,0,23000,Young-adults,medium,30.86,Obesity
+172,31,1,1,0,0,171,79,0,1,1,25000,Young-adults,medium,27.02,Overweight
+173,47,1,0,1,0,168,83,0,0,1,38000,middle aged adults,high,29.41,Overweight
+174,24,1,0,0,0,178,73,0,0,1,15000,Youth,,23.04,Normal
+175,55,0,0,0,0,162,116,0,0,1,35000,middle aged adults,high,44.2,Extreme Obesity
+176,42,0,0,0,0,176,71,1,0,1,23000,middle aged adults,medium,22.92,Normal
+177,35,0,1,0,0,174,106,1,0,1,23000,Young-adults,medium,35.01,Obesity
+178,33,1,1,0,0,164,74,0,0,0,23000,Young-adults,medium,27.51,Overweight
+179,66,1,0,0,0,164,78,1,0,2,28000,senior citizens,medium,29.0,Overweight
+180,38,0,0,0,1,165,68,1,0,1,23000,middle aged adults,medium,24.98,Normal
+181,37,1,1,0,1,180,99,0,0,1,23000,middle aged adults,medium,30.56,Obesity
+182,30,0,0,0,1,160,86,1,0,1,23000,Young-adults,medium,33.59,Obesity
+183,36,0,0,0,0,156,119,0,0,0,23000,middle aged adults,medium,48.9,Extreme Obesity
+184,30,1,1,0,0,161,107,0,0,0,23000,Young-adults,medium,41.28,Extreme Obesity
+185,46,1,0,0,1,174,91,0,0,0,30000,middle aged adults,medium,30.06,Obesity
+186,19,0,0,0,0,173,129,1,0,0,15000,Youth,,43.1,Extreme Obesity
+187,25,1,1,1,0,157,109,0,0,0,15000,Youth,,44.22,Extreme Obesity
+188,42,0,0,0,0,167,93,0,0,1,23000,middle aged adults,medium,33.35,Obesity
+189,35,1,0,0,0,164,100,0,0,0,23000,Young-adults,medium,37.18,Obesity
+190,30,0,1,0,0,174,91,0,0,0,23000,Young-adults,medium,30.06,Obesity
+191,48,0,0,0,0,176,109,0,0,0,35000,middle aged adults,high,35.19,Obesity
+192,50,1,0,0,0,163,127,0,0,2,28000,middle aged adults,medium,47.8,Extreme Obesity
+193,33,0,0,0,0,161,107,1,0,1,23000,Young-adults,medium,41.28,Extreme Obesity
+194,43,1,0,0,0,165,84,0,1,1,31000,middle aged adults,high,30.85,Obesity
+195,19,0,0,0,0,164,132,0,0,0,15000,Youth,,49.08,Extreme Obesity
+196,39,0,1,0,0,174,120,0,0,0,23000,middle aged adults,medium,39.64,Obesity
+197,45,1,1,0,0,179,90,0,0,0,23000,middle aged adults,medium,28.09,Overweight
+198,48,1,0,0,0,182,100,0,0,1,35000,middle aged adults,high,30.19,Obesity
+199,20,1,1,0,0,172,86,0,0,0,15000,Youth,,29.07,Overweight
+200,40,1,1,0,0,170,91,1,0,1,23000,middle aged adults,medium,31.49,Obesity
+201,32,1,1,0,1,176,82,0,0,0,23000,Young-adults,medium,26.47,Overweight
+202,30,0,0,0,0,177,96,1,0,1,26000,Young-adults,medium,30.64,Obesity
+203,24,0,1,0,0,173,128,0,0,1,26000,Youth,medium,42.77,Extreme Obesity
+204,27,0,1,0,0,159,120,1,1,1,39000,Young-adults,high,47.47,Extreme Obesity
+205,60,0,0,0,0,172,107,1,0,0,35000,senior citizens,high,36.17,Obesity
+206,31,1,1,0,0,174,114,0,0,1,23000,Young-adults,medium,37.65,Obesity
+207,18,0,0,0,0,172,123,0,1,1,15000,,,41.58,Extreme Obesity
+208,32,0,1,0,0,176,93,0,0,0,23000,Young-adults,medium,30.02,Obesity
+209,49,1,0,0,0,160,110,1,1,1,35000,middle aged adults,high,42.97,Extreme Obesity
+210,41,0,0,0,1,178,95,0,0,0,30000,middle aged adults,medium,29.98,Overweight
+211,29,0,0,0,1,174,80,1,0,1,19000,Young-adults,low,26.42,Overweight
+212,60,1,0,0,0,175,98,0,0,0,24000,senior citizens,medium,32.0,Obesity
+213,46,0,0,0,0,170,111,0,1,1,22000,middle aged adults,medium,38.41,Obesity
+214,52,0,1,0,0,167,88,0,0,2,28000,middle aged adults,medium,31.55,Obesity
+215,22,0,0,0,0,168,91,0,0,0,15000,Youth,,32.24,Obesity
+216,66,1,1,0,0,175,103,0,0,2,28000,senior citizens,medium,33.63,Obesity
+217,65,0,1,0,0,177,126,0,0,2,24000,senior citizens,medium,40.22,Extreme Obesity
+218,62,0,1,1,0,164,121,1,0,1,38000,senior citizens,high,44.99,Extreme Obesity
+219,35,0,0,0,1,173,104,0,1,1,26000,Young-adults,medium,34.75,Obesity
+220,50,1,1,0,1,163,102,0,1,2,28000,middle aged adults,medium,38.39,Obesity
+221,61,0,1,0,1,174,118,0,0,1,35000,senior citizens,high,38.97,Obesity
+222,49,0,1,0,0,162,105,0,0,1,35000,middle aged adults,high,40.01,Extreme Obesity
+223,25,1,1,0,0,176,92,0,0,0,15000,Youth,,29.7,Overweight
+224,37,0,0,0,0,159,93,1,0,1,23000,middle aged adults,medium,36.79,Obesity
+225,57,1,0,0,0,160,128,0,0,0,35000,senior citizens,high,50.0,Extreme Obesity
+226,60,0,1,0,0,177,96,1,0,2,28000,senior citizens,medium,30.64,Obesity
+227,44,0,0,0,0,182,124,0,1,1,31000,middle aged adults,high,37.44,Obesity
+228,22,1,1,0,0,166,122,0,0,0,15000,Youth,,44.27,Extreme Obesity
+229,56,1,1,0,1,177,87,1,0,2,28000,senior citizens,medium,27.77,Overweight
+230,63,1,1,0,0,167,58,1,1,1,25000,senior citizens,medium,20.8,Normal
+231,36,1,0,0,0,180,74,0,0,0,23000,middle aged adults,medium,22.84,Normal
+232,53,0,0,0,0,168,73,0,0,2,28000,middle aged adults,medium,25.86,Overweight
+233,29,1,1,0,1,172,59,1,0,1,21000,Young-adults,medium,19.94,Normal
+234,32,0,0,0,0,160,60,1,0,1,21000,Young-adults,medium,23.44,Normal
+235,18,0,0,0,0,160,71,1,0,1,15000,,,27.73,Overweight
+236,35,0,1,0,0,161,93,0,0,0,23000,Young-adults,medium,35.88,Obesity
+237,34,0,0,0,0,158,78,0,1,1,25000,Young-adults,medium,31.24,Obesity
+238,62,0,1,0,1,175,89,0,0,2,28000,senior citizens,medium,29.06,Overweight
+239,54,1,0,0,1,161,93,0,0,0,30000,middle aged adults,medium,35.88,Obesity
+240,49,0,1,0,0,177,95,1,0,1,35000,middle aged adults,high,30.32,Obesity
+241,21,1,0,0,0,174,84,1,1,1,15000,Youth,,27.74,Overweight
+242,20,0,0,0,0,173,58,0,0,0,15000,Youth,,19.38,Normal
+243,49,0,1,0,0,179,88,0,0,2,28000,middle aged adults,medium,27.46,Overweight
+244,47,1,1,0,0,161,86,1,0,0,23000,middle aged adults,medium,33.18,Obesity
+245,55,1,0,0,0,169,58,0,0,2,28000,middle aged adults,medium,20.31,Normal
+246,29,0,0,0,0,171,71,0,0,1,15000,Young-adults,,24.28,Normal
+247,52,0,1,0,0,181,73,0,0,0,29000,middle aged adults,medium,22.28,Normal
+248,47,0,1,0,1,166,64,0,0,1,25000,middle aged adults,medium,23.23,Normal
+249,19,0,0,0,0,169,87,0,0,0,15000,Youth,,30.46,Obesity
+250,25,0,1,0,0,170,90,0,0,0,15000,Youth,,31.14,Obesity
+251,65,1,0,0,1,168,63,1,0,0,25000,senior citizens,medium,22.32,Normal
+252,32,0,0,0,0,164,93,1,0,0,23000,Young-adults,medium,34.58,Obesity
+253,53,1,0,0,0,173,97,0,0,0,35000,middle aged adults,high,32.41,Obesity
+254,60,1,0,0,0,159,89,1,0,2,28000,senior citizens,medium,35.2,Obesity
+255,37,0,0,0,1,173,77,1,0,0,23000,middle aged adults,medium,25.73,Overweight
+256,20,0,0,0,0,166,75,0,0,0,15000,Youth,,27.22,Overweight
+257,22,0,1,0,0,164,56,0,0,0,15000,Youth,,20.82,Normal
+258,57,0,0,0,0,158,96,0,0,0,35000,senior citizens,high,38.46,Obesity
+259,33,0,0,0,0,174,86,0,0,1,23000,Young-adults,medium,28.41,Overweight
+260,48,1,0,0,0,173,85,0,0,0,23000,middle aged adults,medium,28.4,Overweight
+261,25,0,0,0,0,182,61,0,0,0,15000,Youth,,18.42,Underweight
+262,54,1,1,0,0,160,62,0,0,1,25000,middle aged adults,medium,24.22,Normal
+263,36,1,0,0,0,180,95,0,0,0,23000,middle aged adults,medium,29.32,Overweight
+264,24,1,0,0,0,178,78,0,0,0,15000,Youth,,24.62,Normal
+265,24,1,0,0,0,159,84,0,0,1,15000,Youth,,33.23,Obesity
+266,55,0,1,0,0,182,66,0,0,1,25000,middle aged adults,medium,19.93,Normal
+267,30,1,1,0,1,182,91,0,0,1,23000,Young-adults,medium,27.47,Overweight
+268,40,0,1,0,1,163,83,0,0,0,30000,middle aged adults,medium,31.24,Obesity
+269,49,0,0,0,0,169,70,0,0,1,29000,middle aged adults,medium,24.51,Normal
+270,46,0,1,0,1,166,58,0,0,1,25000,middle aged adults,medium,21.05,Normal
+271,62,1,1,0,0,181,82,0,0,2,28000,senior citizens,medium,25.03,Overweight
+272,44,1,1,0,1,177,63,0,1,1,30000,middle aged adults,medium,20.11,Normal
+273,36,1,0,0,0,163,69,1,0,1,23000,middle aged adults,medium,25.97,Overweight
+274,64,1,0,0,0,163,88,0,0,3,28000,senior citizens,medium,33.12,Obesity
+275,48,1,1,0,0,171,84,1,0,0,23000,middle aged adults,medium,28.73,Overweight
+276,20,0,0,0,0,181,60,1,0,0,15000,Youth,,18.31,Underweight
+277,28,0,0,0,1,179,63,0,1,1,21000,Young-adults,medium,19.66,Normal
+278,46,0,0,0,0,168,78,1,0,1,23000,middle aged adults,medium,27.64,Overweight
+279,52,1,0,0,0,157,79,0,0,0,29000,middle aged adults,medium,32.05,Obesity
+280,18,1,1,0,0,169,73,0,0,0,26000,,medium,25.56,Overweight
+281,35,1,1,0,0,182,70,0,0,1,23000,Young-adults,medium,21.13,Normal
+282,64,1,0,0,0,175,81,0,0,3,28000,senior citizens,medium,26.45,Overweight
+283,66,0,1,0,0,159,73,0,0,1,35000,senior citizens,high,28.88,Overweight
+284,50,0,1,0,1,165,81,0,1,2,28000,middle aged adults,medium,29.75,Overweight
+285,48,0,1,0,0,172,87,1,0,1,23000,middle aged adults,medium,29.41,Overweight
+286,66,1,1,0,0,157,62,1,0,1,35000,senior citizens,high,25.15,Overweight
+287,52,0,0,0,0,180,57,0,0,1,25000,middle aged adults,medium,17.59,Underweight
+288,48,1,1,0,0,168,64,0,0,1,25000,middle aged adults,medium,22.68,Normal
+289,64,0,1,1,0,176,71,0,1,1,38000,senior citizens,high,22.92,Normal
+290,49,0,0,0,0,162,73,1,0,1,29000,middle aged adults,medium,27.82,Overweight
+291,29,0,0,0,0,156,76,0,0,0,15000,Young-adults,,31.23,Obesity
+292,43,1,0,0,0,173,70,0,0,1,23000,middle aged adults,medium,23.39,Normal
+293,45,0,1,0,0,174,88,0,0,0,23000,middle aged adults,medium,29.07,Overweight
+294,40,0,0,1,0,164,87,0,0,0,38000,middle aged adults,high,32.35,Obesity
+295,64,1,1,0,1,163,91,0,0,2,40000,senior citizens,high,34.25,Obesity
+296,40,0,1,0,0,158,71,0,1,1,31000,middle aged adults,high,28.44,Overweight
+297,32,0,0,0,0,163,84,0,1,1,25000,Young-adults,medium,31.62,Obesity
+298,52,1,1,0,0,158,88,0,0,2,28000,middle aged adults,medium,35.25,Obesity
+299,35,0,1,0,0,168,87,1,0,0,23000,Young-adults,medium,30.82,Obesity
+300,26,1,0,0,0,181,74,0,0,0,15000,Young-adults,,22.59,Normal
+301,25,0,1,0,0,179,71,0,1,1,15000,Youth,,22.16,Normal
+302,25,0,1,0,0,176,75,1,0,0,15000,Youth,,24.21,Normal
+303,40,0,1,0,0,157,88,1,1,1,31000,middle aged adults,high,35.7,Obesity
+304,26,0,0,0,0,157,66,0,0,0,15000,Young-adults,,26.78,Overweight
+305,43,0,0,0,0,169,81,0,0,0,23000,middle aged adults,medium,28.36,Overweight
+306,56,0,0,0,0,169,95,1,0,0,35000,senior citizens,high,33.26,Obesity
+307,38,1,1,0,1,180,71,0,0,0,23000,middle aged adults,medium,21.91,Normal
+308,65,1,1,0,0,168,81,0,0,2,28000,senior citizens,medium,28.7,Overweight
+309,64,1,0,0,0,177,94,0,0,3,28000,senior citizens,medium,30.0,Overweight
+310,23,0,0,0,0,166,70,0,0,0,15000,Youth,,25.4,Overweight
+311,25,1,0,0,0,181,96,0,0,0,24000,Youth,medium,29.3,Overweight
+312,36,0,1,0,1,166,86,1,0,1,23000,middle aged adults,medium,31.21,Obesity
+313,40,0,0,0,0,162,95,0,0,0,23000,middle aged adults,medium,36.2,Obesity
+314,59,1,1,1,0,158,78,0,0,1,38000,senior citizens,high,31.24,Obesity
+315,32,0,0,0,1,182,70,0,0,0,23000,Young-adults,medium,21.13,Normal
+316,52,1,1,0,0,168,68,0,0,1,25000,middle aged adults,medium,24.09,Normal
+317,53,0,0,0,0,156,78,0,0,0,29000,middle aged adults,medium,32.05,Obesity
+318,55,1,0,1,0,159,85,0,0,0,38000,middle aged adults,high,33.62,Obesity
+319,42,1,1,0,0,182,63,0,0,1,23000,middle aged adults,medium,19.02,Normal
+320,28,0,0,0,1,179,77,0,0,0,19000,Young-adults,low,24.03,Normal
+321,33,0,0,0,0,177,97,0,0,0,23000,Young-adults,medium,30.96,Obesity
+322,34,0,1,0,0,160,97,0,0,0,23000,Young-adults,medium,37.89,Obesity
+323,24,0,0,0,0,172,75,0,0,1,15000,Youth,,25.35,Overweight
+324,61,1,1,0,0,156,74,1,0,1,26000,senior citizens,medium,30.41,Obesity
+325,29,1,0,0,0,162,92,0,0,0,15000,Young-adults,,35.06,Obesity
+326,48,0,1,0,0,173,76,1,0,0,23000,middle aged adults,medium,25.39,Overweight
+327,38,0,0,0,1,182,69,1,0,1,23000,middle aged adults,medium,20.83,Normal
+328,51,0,1,0,0,179,85,0,0,2,28000,middle aged adults,medium,26.53,Overweight
+329,61,0,1,0,0,166,85,1,1,1,31000,senior citizens,high,30.85,Obesity
+330,30,0,0,0,0,166,70,1,0,0,23000,Young-adults,medium,25.4,Overweight
+331,57,0,0,0,0,164,97,0,0,2,28000,senior citizens,medium,36.06,Obesity
+332,63,0,1,0,0,182,80,0,1,2,28000,senior citizens,medium,24.15,Normal
+333,43,1,1,0,1,179,63,0,0,1,18000,middle aged adults,low,19.66,Normal
+334,31,0,1,0,0,162,87,0,0,0,34000,Young-adults,high,33.15,Obesity
+335,55,1,1,0,0,161,95,0,0,2,28000,middle aged adults,medium,36.65,Obesity
+336,19,0,0,0,0,166,70,1,0,0,15000,Youth,,25.4,Overweight
+337,50,1,1,0,1,167,86,0,0,2,28000,middle aged adults,medium,30.84,Obesity
+338,45,1,1,0,1,177,61,1,1,1,25000,middle aged adults,medium,19.47,Normal
+339,47,1,1,0,0,174,63,1,0,1,25000,middle aged adults,medium,20.81,Normal
+340,47,1,0,0,1,180,82,0,0,0,30000,middle aged adults,medium,25.31,Overweight
+341,43,1,0,0,0,176,61,1,0,1,23000,middle aged adults,medium,19.69,Normal
+342,48,0,1,0,0,175,96,1,1,1,35000,middle aged adults,high,31.35,Obesity
+343,25,1,1,0,0,159,64,0,0,1,15000,Youth,,25.32,Overweight
+344,34,1,0,0,0,178,67,0,0,0,23000,Young-adults,medium,21.15,Normal
+345,47,1,1,0,1,181,72,0,0,0,30000,middle aged adults,medium,21.98,Normal
+346,22,1,0,0,0,166,58,1,1,1,15000,Youth,,21.05,Normal
+347,34,0,0,0,0,161,80,0,0,0,23000,Young-adults,medium,30.86,Obesity
+348,63,0,1,0,0,173,63,1,0,1,25000,senior citizens,medium,21.05,Normal
+349,51,1,1,0,1,180,75,0,0,2,28000,middle aged adults,medium,23.15,Normal
+350,48,1,0,0,0,164,94,0,0,0,23000,middle aged adults,medium,34.95,Obesity
+351,33,0,1,0,1,177,65,0,0,0,21000,Young-adults,medium,20.75,Normal
+352,42,1,0,0,0,167,86,1,0,1,23000,middle aged adults,medium,30.84,Obesity
+353,19,0,0,0,0,172,97,0,0,1,15000,Youth,,32.79,Obesity
+354,42,0,1,0,0,169,87,0,0,1,23000,middle aged adults,medium,30.46,Obesity
+355,65,1,0,0,0,158,67,0,0,2,28000,senior citizens,medium,26.84,Overweight
+356,47,1,0,0,0,157,80,0,0,0,23000,middle aged adults,medium,32.46,Obesity
+357,41,0,1,0,1,182,58,0,0,0,30000,middle aged adults,medium,17.51,Underweight
+358,45,0,0,0,1,171,79,0,0,0,30000,middle aged adults,medium,27.02,Overweight
+359,49,1,0,0,0,158,63,0,0,0,25000,middle aged adults,medium,25.24,Overweight
+360,42,1,1,0,0,171,88,1,1,1,31000,middle aged adults,high,30.09,Obesity
+361,34,0,0,0,1,177,83,0,0,0,23000,Young-adults,medium,26.49,Overweight
+362,37,0,0,0,0,178,93,0,0,1,23000,middle aged adults,medium,29.35,Overweight
+363,43,0,1,0,1,181,73,0,0,1,30000,middle aged adults,medium,22.28,Normal
+364,46,0,1,0,0,159,89,0,0,0,23000,middle aged adults,medium,35.2,Obesity
+365,54,1,0,0,0,170,83,1,0,2,28000,middle aged adults,medium,28.72,Overweight
+366,48,0,1,0,0,169,79,0,0,1,23000,middle aged adults,medium,27.66,Overweight
+367,52,0,0,0,0,176,65,0,0,2,28000,middle aged adults,medium,20.98,Normal
+368,35,0,1,0,0,162,78,0,0,0,23000,Young-adults,medium,29.72,Overweight
+369,36,0,1,1,1,164,58,0,0,0,38000,middle aged adults,high,21.56,Normal
+370,62,0,1,0,0,179,77,0,1,1,31000,senior citizens,high,24.03,Normal
+371,64,1,1,0,0,175,74,0,0,0,29000,senior citizens,medium,24.16,Normal
+372,25,0,1,0,0,166,95,1,0,0,15000,Youth,,34.48,Obesity
+373,62,0,1,0,0,163,63,0,0,2,28000,senior citizens,medium,23.71,Normal
+374,29,1,0,0,0,162,80,0,0,0,15000,Young-adults,,30.48,Obesity
+375,37,1,0,0,0,166,82,0,0,0,23000,middle aged adults,medium,29.76,Overweight
+376,43,0,1,0,0,158,76,0,0,0,23000,middle aged adults,medium,30.44,Obesity
+377,61,1,0,0,0,163,82,0,0,2,28000,senior citizens,medium,30.86,Obesity
+378,54,0,0,0,0,156,71,0,0,0,29000,middle aged adults,medium,29.17,Overweight
+379,41,1,1,0,0,162,74,0,0,0,23000,middle aged adults,medium,28.2,Overweight
+380,62,1,1,0,0,175,60,0,0,2,28000,senior citizens,medium,19.59,Normal
+381,43,1,1,0,1,156,57,0,0,0,30000,middle aged adults,medium,23.42,Normal
+382,19,0,0,0,0,164,97,0,0,0,15000,Youth,,36.06,Obesity
+383,38,0,0,0,1,180,73,0,0,0,23000,middle aged adults,medium,22.53,Normal
+384,45,0,1,0,1,158,57,0,0,0,25000,middle aged adults,medium,22.83,Normal
+385,54,1,1,0,0,174,91,0,0,0,29000,middle aged adults,medium,30.06,Obesity
+386,29,0,1,0,1,166,72,0,0,0,19000,Young-adults,low,26.13,Overweight
+387,62,0,1,0,0,159,79,1,1,1,31000,senior citizens,high,31.25,Obesity
+388,54,0,1,0,0,170,59,1,0,0,25000,middle aged adults,medium,20.42,Normal
+389,45,1,0,0,0,157,87,0,0,0,23000,middle aged adults,medium,35.3,Obesity
+390,64,1,1,0,0,159,56,0,0,0,25000,senior citizens,medium,22.15,Normal
+391,40,0,1,0,0,161,77,0,0,0,23000,middle aged adults,medium,29.71,Overweight
+392,35,0,1,0,0,180,63,0,0,0,23000,Young-adults,medium,19.44,Normal
+393,58,1,1,0,0,173,72,0,0,0,29000,senior citizens,medium,24.06,Normal
+394,57,1,1,0,0,156,76,0,0,2,28000,senior citizens,medium,31.23,Obesity
+395,28,1,1,1,1,156,58,0,0,1,21000,Young-adults,medium,23.83,Normal
+396,33,0,1,1,1,159,68,0,0,1,38000,Young-adults,high,26.9,Overweight
+397,32,0,0,0,1,164,61,0,0,0,21000,Young-adults,medium,22.68,Normal
+398,66,1,1,0,0,163,70,0,0,2,28000,senior citizens,medium,26.35,Overweight
+399,43,0,0,0,0,182,58,0,0,1,23000,middle aged adults,medium,17.51,Underweight
+400,32,0,1,0,0,157,58,0,0,1,21000,Young-adults,medium,23.53,Normal
+401,65,1,1,0,0,167,52,0,0,3,28000,senior citizens,medium,18.65,Normal
+402,34,0,1,0,1,165,74,0,1,1,25000,Young-adults,medium,27.18,Overweight
+403,55,1,1,0,0,156,76,1,0,0,29000,middle aged adults,medium,31.23,Obesity
+404,64,1,1,0,0,181,75,0,0,2,28000,senior citizens,medium,22.89,Normal
+405,44,0,0,0,1,171,52,0,1,1,30000,middle aged adults,medium,17.78,Underweight
+406,35,1,0,0,0,162,59,0,0,0,23000,Young-adults,medium,22.48,Normal
+407,38,0,0,0,0,181,54,0,0,0,23000,middle aged adults,medium,16.48,Underweight
+408,45,1,1,0,0,160,77,0,0,0,23000,middle aged adults,medium,30.08,Obesity
+409,39,1,1,0,0,174,54,0,0,0,23000,middle aged adults,medium,17.84,Underweight
+410,59,1,1,0,0,164,73,0,0,2,28000,senior citizens,medium,27.14,Overweight
+411,36,1,0,0,0,167,75,0,0,0,23000,middle aged adults,medium,26.89,Overweight
+412,61,1,0,0,0,168,70,0,0,2,28000,senior citizens,medium,24.8,Normal
+413,33,1,1,0,0,163,73,0,0,0,23000,Young-adults,medium,27.48,Overweight
+414,44,1,1,0,0,160,53,0,0,0,23000,middle aged adults,medium,20.7,Normal
+415,31,1,0,0,0,162,73,0,0,0,23000,Young-adults,medium,27.82,Overweight
+416,18,0,1,0,0,172,59,0,1,1,15000,,,19.94,Normal
+417,45,0,0,0,0,176,70,0,0,0,23000,middle aged adults,medium,22.6,Normal
+418,34,0,0,0,0,177,52,0,0,0,23000,Young-adults,medium,16.6,Underweight
+419,37,1,0,0,0,156,76,0,0,0,23000,middle aged adults,medium,31.23,Obesity
+420,29,0,0,0,0,166,59,0,1,1,15000,Young-adults,,21.41,Normal
+421,36,0,0,0,0,165,72,0,0,0,23000,middle aged adults,medium,26.45,Overweight
+422,22,0,0,0,0,162,57,0,0,0,15000,Youth,,21.72,Normal
+423,20,0,0,0,0,175,68,0,0,1,15000,Youth,,22.2,Normal
+424,61,0,1,0,0,172,56,0,1,2,28000,senior citizens,medium,18.93,Normal
+425,49,0,0,0,0,165,61,0,0,0,25000,middle aged adults,medium,22.41,Normal
+426,27,1,0,0,0,168,65,0,0,0,15000,Young-adults,,23.03,Normal
+427,59,1,1,0,0,168,51,0,1,1,25000,senior citizens,medium,18.07,Underweight
+428,23,0,1,0,0,169,57,0,0,0,15000,Youth,,19.96,Normal
+429,21,1,1,0,0,173,71,1,0,1,15000,Youth,,23.72,Normal
+430,58,1,1,0,0,159,62,0,0,0,25000,senior citizens,medium,24.52,Normal
+431,37,0,1,0,0,158,68,0,0,1,23000,middle aged adults,medium,27.24,Overweight
+432,24,0,0,0,0,160,76,0,0,1,15000,Youth,,29.69,Overweight
+433,44,0,0,0,1,160,66,0,0,0,30000,middle aged adults,medium,25.78,Overweight
+434,50,1,0,0,0,164,73,1,0,0,20000,middle aged adults,low,27.14,Overweight
+435,37,1,0,0,0,174,63,1,1,1,31000,middle aged adults,high,20.81,Normal
+436,29,0,0,0,0,179,70,0,1,1,15000,Young-adults,,21.85,Normal
+437,37,0,0,0,1,170,52,1,0,0,23000,middle aged adults,medium,17.99,Underweight
+438,24,1,0,1,0,173,57,0,0,0,15000,Youth,,19.05,Normal
+439,65,0,1,1,0,179,58,0,0,1,35000,senior citizens,high,18.1,Underweight
+440,48,0,1,0,0,172,59,0,0,1,25000,middle aged adults,medium,19.94,Normal
+441,64,0,1,0,0,174,64,0,0,1,25000,senior citizens,medium,21.14,Normal
+442,22,1,0,0,0,158,64,1,0,1,15000,Youth,,25.64,Overweight
+443,39,0,0,0,0,161,52,0,0,0,23000,middle aged adults,medium,20.06,Normal
+444,19,0,0,0,0,158,73,0,0,0,18000,Youth,low,29.24,Overweight
+445,18,1,1,0,0,176,63,0,0,1,15000,,,20.34,Normal
+446,59,0,1,0,0,162,51,1,0,0,16000,senior citizens,low,19.43,Normal
+447,60,0,1,0,0,171,74,0,1,2,28000,senior citizens,medium,25.31,Overweight
+448,27,0,0,0,0,162,74,0,0,0,16000,Young-adults,low,28.2,Overweight
+449,50,0,0,0,0,158,76,0,1,2,28000,middle aged adults,medium,30.44,Obesity
+450,20,1,0,0,0,181,77,1,1,1,16000,Youth,low,23.5,Normal
+451,39,0,0,0,1,185,73,1,1,1,31000,middle aged adults,high,21.33,Normal
+452,64,1,1,0,0,179,73,1,0,2,28000,senior citizens,medium,22.78,Normal
+453,58,0,1,1,0,163,51,1,0,2,28000,senior citizens,medium,19.2,Normal
+454,32,0,0,0,0,184,68,0,0,1,23000,Young-adults,medium,20.09,Normal
+455,19,0,0,0,0,176,53,0,0,0,15000,Youth,,17.11,Underweight
+456,19,1,0,0,0,183,70,1,1,1,15000,Youth,,20.9,Normal
+457,22,0,0,0,0,174,74,1,0,1,15000,Youth,,24.44,Normal
+458,61,1,0,0,0,178,71,0,0,3,28000,senior citizens,medium,22.41,Normal
+459,58,0,0,1,0,179,62,0,0,0,38000,senior citizens,high,19.35,Normal
+460,29,1,0,0,0,174,56,0,0,0,15000,Young-adults,,18.5,Underweight
+461,56,1,1,0,0,177,58,0,0,1,25000,senior citizens,medium,18.51,Normal
+462,24,0,1,0,0,180,62,0,0,0,15000,Youth,,19.14,Normal
+463,65,1,0,0,0,184,78,0,0,3,28000,senior citizens,medium,23.04,Normal
+464,24,1,1,1,0,166,74,1,0,0,15000,Youth,,26.85,Overweight
+465,48,0,0,0,1,175,70,0,0,0,30000,middle aged adults,medium,22.86,Normal
+466,42,1,0,0,0,186,58,0,0,0,23000,middle aged adults,medium,16.76,Underweight
+467,44,1,0,0,0,168,76,1,0,0,23000,middle aged adults,medium,26.93,Overweight
+468,26,1,1,0,0,167,70,0,1,1,15000,Young-adults,,25.1,Overweight
+469,49,0,1,0,1,185,73,1,1,1,30000,middle aged adults,medium,21.33,Normal
+470,35,1,0,0,0,173,60,0,0,0,23000,Young-adults,medium,20.05,Normal
+471,58,1,1,0,0,165,63,0,0,0,25000,senior citizens,medium,23.14,Normal
+472,47,0,1,0,0,170,77,0,0,1,23000,middle aged adults,medium,26.64,Overweight
+473,57,0,0,0,1,165,56,0,0,0,25000,senior citizens,medium,20.57,Normal
+474,46,0,1,0,0,174,54,0,0,0,25000,middle aged adults,medium,17.84,Underweight
+475,41,1,1,0,0,167,70,0,0,1,23000,middle aged adults,medium,25.1,Overweight
+476,18,0,0,0,0,181,65,1,1,1,15000,,,19.84,Normal
+477,49,1,1,0,0,166,75,0,1,2,28000,middle aged adults,medium,27.22,Overweight
+478,32,0,0,0,0,185,65,0,1,1,21000,Young-adults,medium,18.99,Normal
+479,45,1,0,0,1,181,58,0,0,1,25000,middle aged adults,medium,17.7,Underweight
+480,27,0,0,0,0,165,63,0,0,0,15000,Young-adults,,23.14,Normal
+481,56,1,0,0,0,168,69,0,0,0,25000,senior citizens,medium,24.45,Normal
+482,42,0,0,0,0,183,62,0,0,0,23000,middle aged adults,medium,18.51,Normal
+483,64,0,1,0,1,180,60,1,1,1,25000,senior citizens,medium,18.52,Normal
+484,58,1,0,0,0,176,51,0,0,0,25000,senior citizens,medium,16.46,Underweight
+485,56,0,0,0,1,184,68,1,0,1,25000,senior citizens,medium,20.09,Normal
+486,58,0,1,0,0,180,63,0,0,0,25000,senior citizens,medium,19.44,Normal
+487,45,0,1,0,0,167,78,0,0,0,23000,middle aged adults,medium,27.97,Overweight
+488,45,0,0,0,1,175,54,0,0,0,25000,middle aged adults,medium,17.63,Underweight
+489,30,0,0,0,0,166,54,0,0,1,21000,Young-adults,medium,19.6,Normal
+490,33,0,1,0,0,170,54,0,0,1,21000,Young-adults,medium,18.69,Normal
+491,59,1,1,0,0,175,68,0,0,1,25000,senior citizens,medium,22.2,Normal
+492,27,1,0,0,0,184,64,0,0,0,15000,Young-adults,,18.9,Normal
+493,30,0,1,0,0,174,52,0,0,1,21000,Young-adults,medium,17.18,Underweight
+494,64,1,1,0,0,178,62,0,1,2,28000,senior citizens,medium,19.57,Normal
+495,34,0,1,0,0,172,62,0,0,1,23000,Young-adults,medium,20.96,Normal
+496,51,0,1,0,0,174,65,1,0,1,25000,middle aged adults,medium,21.47,Normal
+497,35,0,0,0,0,184,63,0,0,0,23000,Young-adults,medium,18.61,Normal
+498,62,0,1,0,0,167,67,0,0,2,28000,senior citizens,medium,24.02,Normal
+499,46,1,1,0,0,168,61,0,0,0,25000,middle aged adults,medium,21.61,Normal
+500,45,0,0,0,0,172,81,0,0,1,23000,middle aged adults,medium,27.38,Overweight
+501,26,0,0,0,1,184,73,0,0,1,19000,Young-adults,low,21.56,Normal
+502,50,1,0,0,0,168,75,0,0,2,28000,middle aged adults,medium,26.57,Overweight
+503,64,1,1,0,0,180,92,0,0,2,28000,senior citizens,medium,28.4,Overweight
+504,52,1,0,1,0,183,86,0,0,0,38000,middle aged adults,high,25.68,Overweight
+505,36,0,0,0,0,178,87,0,0,0,23000,middle aged adults,medium,27.46,Overweight
+506,54,0,0,0,0,184,81,0,0,1,29000,middle aged adults,medium,23.92,Normal
+507,49,0,0,0,0,185,81,0,0,2,28000,middle aged adults,medium,23.67,Normal
+508,51,0,0,0,0,176,83,1,0,1,29000,middle aged adults,medium,26.79,Overweight
+509,64,1,0,0,0,178,83,0,0,0,29000,senior citizens,medium,26.2,Overweight
+510,21,0,0,0,0,182,93,0,0,0,15000,Youth,,28.08,Overweight
+511,35,1,1,0,0,169,74,0,0,1,23000,Young-adults,medium,25.91,Overweight
+512,19,1,1,0,0,172,91,0,0,0,15000,Youth,,30.76,Obesity
+513,63,0,1,0,0,175,87,0,0,0,29000,senior citizens,medium,28.41,Overweight
+514,39,1,1,0,0,169,78,0,0,0,23000,middle aged adults,medium,27.31,Overweight
+515,43,0,0,0,0,165,77,1,0,0,23000,middle aged adults,medium,28.28,Overweight
+516,47,0,0,0,0,166,97,1,0,0,36000,middle aged adults,high,35.2,Obesity
+517,61,1,0,0,0,178,73,0,0,1,29000,senior citizens,medium,23.04,Normal
+518,42,1,1,0,0,176,93,0,1,1,31000,middle aged adults,high,30.02,Obesity
+519,20,0,0,0,0,166,88,0,0,0,15000,Youth,,31.93,Obesity
+520,18,1,1,0,0,183,88,0,0,1,15000,,,26.28,Overweight
+521,50,0,1,0,0,167,93,1,0,1,29000,middle aged adults,medium,33.35,Obesity
+522,52,1,0,0,0,184,83,1,1,2,28000,middle aged adults,medium,24.52,Normal
+523,35,0,1,0,0,169,86,0,0,0,23000,Young-adults,medium,30.11,Obesity
+524,21,1,1,0,0,167,87,0,0,0,15000,Youth,,31.2,Obesity
+525,37,0,0,0,0,183,76,0,0,0,23000,middle aged adults,medium,22.69,Normal
+526,54,1,1,0,1,182,89,0,0,2,28000,middle aged adults,medium,26.87,Overweight
+527,42,0,0,0,0,185,84,0,0,1,23000,middle aged adults,medium,24.54,Normal
+528,51,0,0,1,0,181,94,1,0,1,38000,middle aged adults,high,28.69,Overweight
+529,31,0,1,0,0,171,85,0,0,0,23000,Young-adults,medium,29.07,Overweight
+530,28,0,0,0,0,185,82,0,0,0,15000,Young-adults,,23.96,Normal
+531,28,1,0,0,0,167,91,0,0,0,36000,Young-adults,high,32.63,Obesity
+532,49,0,0,0,0,178,81,1,0,1,29000,middle aged adults,medium,25.56,Overweight
+533,46,1,1,0,0,173,87,1,0,1,23000,middle aged adults,medium,29.07,Overweight
+534,38,0,1,0,0,163,81,0,0,0,23000,middle aged adults,medium,30.49,Obesity
+535,46,0,0,0,0,169,94,0,0,0,23000,middle aged adults,medium,32.91,Obesity
+536,65,0,1,0,0,177,79,0,0,2,28000,senior citizens,medium,25.22,Overweight
+537,25,1,1,0,1,163,85,0,0,0,19000,Youth,low,31.99,Obesity
+538,25,0,0,0,0,165,79,0,0,0,15000,Youth,,29.02,Overweight
+539,62,0,1,0,0,182,97,0,0,2,28000,senior citizens,medium,29.28,Overweight
+540,54,1,0,0,0,182,82,0,0,0,29000,middle aged adults,medium,24.76,Normal
+541,59,1,0,0,0,176,75,0,0,0,29000,senior citizens,medium,24.21,Normal
+542,64,1,0,0,0,168,86,0,0,0,29000,senior citizens,medium,30.47,Obesity
+543,63,0,1,0,0,164,77,0,0,1,29000,senior citizens,medium,28.63,Overweight
+544,61,1,1,0,0,167,75,0,0,1,29000,senior citizens,medium,26.89,Overweight
+545,47,0,0,0,0,174,79,0,1,1,31000,middle aged adults,high,26.09,Overweight
+546,41,1,1,0,0,185,77,0,0,0,23000,middle aged adults,medium,22.5,Normal
+547,59,0,0,0,0,183,81,0,0,0,29000,senior citizens,medium,24.19,Normal
+548,18,0,1,0,0,163,74,0,0,0,15000,,,27.85,Overweight
+549,28,0,0,0,1,169,78,0,0,0,19000,Young-adults,low,27.31,Overweight
+550,66,1,1,0,0,168,85,0,0,2,28000,senior citizens,medium,30.12,Obesity
+551,58,1,1,0,0,172,89,0,0,2,28000,senior citizens,medium,30.08,Obesity
+552,59,1,1,0,0,174,89,1,0,1,29000,senior citizens,medium,29.4,Overweight
+553,64,0,1,0,0,181,75,0,0,1,29000,senior citizens,medium,22.89,Normal
+554,63,1,1,0,0,168,77,1,0,1,29000,senior citizens,medium,27.28,Overweight
+555,37,0,0,0,1,186,90,0,0,0,26000,middle aged adults,medium,26.01,Overweight
+556,18,0,1,0,0,169,95,1,0,1,26000,,medium,33.26,Obesity
+557,29,0,0,0,0,165,73,0,0,1,15000,Young-adults,,26.81,Overweight
+558,42,1,1,0,0,185,96,0,0,1,34000,middle aged adults,high,28.05,Overweight
+559,22,0,1,0,0,178,92,0,0,0,15000,Youth,,29.04,Overweight
+560,36,1,1,0,0,183,82,1,0,1,23000,middle aged adults,medium,24.49,Normal
+561,37,1,1,0,1,180,94,0,0,0,23000,middle aged adults,medium,29.01,Overweight
+562,32,0,1,0,0,181,90,0,0,0,23000,Young-adults,medium,27.47,Overweight
+563,51,0,0,0,1,180,94,0,0,0,30000,middle aged adults,medium,29.01,Overweight
+564,39,0,0,0,0,178,91,0,0,0,23000,middle aged adults,medium,28.72,Overweight
+565,61,0,1,0,0,163,96,1,0,2,28000,senior citizens,medium,36.13,Obesity
+566,27,0,0,0,0,183,79,1,0,0,15000,Young-adults,,23.59,Normal
+567,55,0,0,0,0,167,88,0,0,0,29000,middle aged adults,medium,31.55,Obesity
+568,66,0,1,0,1,169,91,0,1,1,35000,senior citizens,high,31.86,Obesity
+569,58,1,0,0,0,180,74,0,0,2,28000,senior citizens,medium,22.84,Normal
+570,60,0,1,0,0,181,74,0,0,2,28000,senior citizens,medium,22.59,Normal
+571,43,0,1,1,1,177,89,0,0,1,38000,middle aged adults,high,28.41,Overweight
+572,54,0,0,0,0,179,81,0,0,1,29000,middle aged adults,medium,25.28,Overweight
+573,19,0,0,0,0,163,75,1,0,1,15000,Youth,,28.23,Overweight
+574,66,1,1,0,1,176,73,0,0,2,28000,senior citizens,medium,23.57,Normal
+575,51,0,0,0,0,166,83,0,0,0,29000,middle aged adults,medium,30.12,Obesity
+576,34,1,1,0,0,170,77,0,0,0,23000,Young-adults,medium,26.64,Overweight
+577,43,1,1,0,0,166,79,0,0,1,23000,middle aged adults,medium,28.67,Overweight
+578,30,0,1,0,0,166,93,0,0,0,23000,Young-adults,medium,33.75,Obesity
+579,41,1,1,0,0,168,81,0,0,1,23000,middle aged adults,medium,28.7,Overweight
+580,18,0,0,0,0,172,79,0,0,0,15000,,,26.7,Overweight
+581,49,1,1,0,1,183,76,1,0,2,28000,middle aged adults,medium,22.69,Normal
+582,50,0,0,0,0,185,78,0,0,1,29000,middle aged adults,medium,22.79,Normal
+583,43,0,0,0,0,176,95,0,0,1,23000,middle aged adults,medium,30.67,Obesity
+584,27,0,0,0,1,173,90,0,1,1,25000,Young-adults,medium,30.07,Obesity
+585,43,0,0,0,1,176,78,0,0,0,30000,middle aged adults,medium,25.18,Overweight
+586,29,0,1,0,0,171,95,0,1,1,15000,Young-adults,,32.49,Obesity
+587,31,0,1,0,0,175,74,0,0,1,23000,Young-adults,medium,24.16,Normal
+588,42,0,0,0,1,185,90,0,0,0,30000,middle aged adults,medium,26.3,Overweight
+589,31,0,0,0,1,165,82,0,0,1,23000,Young-adults,medium,30.12,Obesity
+590,41,0,0,0,1,183,89,0,0,0,30000,middle aged adults,medium,26.58,Overweight
+591,31,0,1,0,0,167,84,0,0,0,23000,Young-adults,medium,30.12,Obesity
+592,47,0,0,0,0,181,93,0,0,0,23000,middle aged adults,medium,28.39,Overweight
+593,27,1,1,0,0,176,97,0,0,0,15000,Young-adults,,31.31,Obesity
+594,44,0,1,0,1,180,88,0,0,0,30000,middle aged adults,medium,27.16,Overweight
+595,58,1,0,0,0,179,79,0,0,0,29000,senior citizens,medium,24.66,Normal
+596,27,0,0,0,0,170,88,1,0,1,15000,Young-adults,,30.45,Obesity
+597,55,0,1,0,0,172,91,1,0,1,29000,middle aged adults,medium,30.76,Obesity
+598,51,0,1,0,0,166,74,1,0,1,29000,middle aged adults,medium,26.85,Overweight
+599,22,1,1,0,0,172,81,0,0,0,15000,Youth,,27.38,Overweight
+600,28,1,0,0,0,178,83,1,0,0,15000,Young-adults,,26.2,Overweight
+601,44,1,0,0,0,184,87,0,0,0,23000,middle aged adults,medium,25.7,Overweight
+602,49,0,1,0,0,185,79,0,0,1,29000,middle aged adults,medium,23.08,Normal
+603,46,1,0,0,0,167,89,0,0,0,23000,middle aged adults,medium,31.91,Obesity
+604,26,0,1,0,1,178,91,0,0,0,19000,Young-adults,low,28.72,Overweight
+605,62,0,0,0,0,177,97,0,0,3,28000,senior citizens,medium,30.96,Obesity
+606,27,0,0,0,0,166,83,1,0,1,15000,Young-adults,,30.12,Obesity
+607,45,0,1,0,0,165,75,0,0,1,23000,middle aged adults,medium,27.55,Overweight
+608,60,0,0,0,0,164,94,0,0,0,29000,senior citizens,medium,34.95,Obesity
+609,61,0,1,0,0,174,87,1,0,0,29000,senior citizens,medium,28.74,Overweight
+610,26,0,0,0,0,165,97,0,0,0,15000,Young-adults,,35.63,Obesity
+611,58,1,1,0,0,178,75,0,0,1,29000,senior citizens,medium,23.67,Normal
+612,27,0,0,0,0,186,83,0,1,1,15000,Young-adults,,23.99,Normal
+613,50,0,0,0,0,165,84,1,1,1,31000,middle aged adults,high,30.85,Obesity
+614,57,1,1,0,0,170,93,1,0,1,29000,senior citizens,medium,32.18,Obesity
+615,59,1,0,0,0,167,82,0,0,0,29000,senior citizens,medium,29.4,Overweight
+616,43,0,0,0,1,169,91,1,0,1,30000,middle aged adults,medium,31.86,Obesity
+617,21,0,1,0,0,165,79,0,0,0,15000,Youth,,29.02,Overweight
+618,42,0,1,0,0,174,76,0,1,1,31000,middle aged adults,high,25.1,Overweight
+619,59,1,1,0,0,172,76,0,0,2,28000,senior citizens,medium,25.69,Overweight
+620,24,1,1,0,0,176,92,0,1,1,15000,Youth,,29.7,Overweight
+621,32,0,1,1,0,181,84,0,0,0,38000,Young-adults,high,25.64,Overweight
+622,45,1,0,0,0,184,84,1,1,1,31000,middle aged adults,high,24.81,Normal
+623,42,1,0,0,0,166,82,0,0,0,23000,middle aged adults,medium,29.76,Overweight
+624,34,0,0,1,0,184,89,1,0,1,38000,Young-adults,high,26.29,Overweight
+625,45,1,0,0,0,179,94,0,0,0,23000,middle aged adults,medium,29.34,Overweight
+626,28,0,0,0,1,180,86,0,0,0,19000,Young-adults,low,26.54,Overweight
+627,36,0,0,0,0,165,82,1,1,1,31000,middle aged adults,high,30.12,Obesity
+628,24,1,0,0,0,170,87,0,0,1,15000,Youth,,30.1,Obesity
+629,41,0,0,0,1,172,89,0,0,0,30000,middle aged adults,medium,30.08,Obesity
+630,41,0,0,0,0,163,60,0,0,0,23000,middle aged adults,medium,22.58,Normal
+631,48,1,0,0,1,164,60,0,0,0,25000,middle aged adults,medium,22.31,Normal
+632,41,0,0,0,1,177,97,0,0,0,30000,middle aged adults,medium,30.96,Obesity
+633,51,1,1,0,1,181,64,0,0,2,28000,middle aged adults,medium,19.54,Normal
+634,27,0,0,0,0,186,74,1,0,1,15000,Young-adults,,21.39,Normal
+635,35,1,0,0,0,167,74,0,0,0,23000,Young-adults,medium,26.53,Overweight
+636,40,0,0,0,0,178,61,1,0,1,23000,middle aged adults,medium,19.25,Normal
+637,41,1,1,0,1,169,67,1,0,0,30000,middle aged adults,medium,23.46,Normal
+638,21,1,0,0,0,173,78,0,0,1,15000,Youth,,26.06,Overweight
+639,44,1,0,0,0,165,70,0,0,0,23000,middle aged adults,medium,25.71,Overweight
+640,36,1,1,0,0,166,92,0,0,1,23000,middle aged adults,medium,33.39,Obesity
+641,45,1,0,0,0,172,88,0,0,0,23000,middle aged adults,medium,29.75,Overweight
+642,44,1,0,0,0,184,65,1,0,1,23000,middle aged adults,medium,19.2,Normal
+643,51,0,1,0,0,165,67,0,0,1,25000,middle aged adults,medium,24.61,Normal
+644,20,0,0,0,0,170,57,0,0,0,15000,Youth,,19.72,Normal
+645,63,1,1,0,0,179,76,1,0,1,29000,senior citizens,medium,23.72,Normal
+646,51,0,1,0,0,166,78,0,0,1,29000,middle aged adults,medium,28.31,Overweight
+647,22,0,0,0,0,182,81,0,0,0,15000,Youth,,24.45,Normal
+648,63,1,1,0,0,184,65,0,0,2,28000,senior citizens,medium,19.2,Normal
+649,30,0,0,0,0,182,67,0,1,1,21000,Young-adults,medium,20.23,Normal
+650,40,1,0,0,0,166,101,1,0,0,32000,middle aged adults,high,36.65,Obesity
+651,59,0,1,0,1,163,60,1,0,1,25000,senior citizens,medium,22.58,Normal
+652,21,0,1,0,0,179,80,1,0,0,15000,Youth,,24.97,Normal
+653,30,1,1,0,1,166,89,0,0,0,23000,Young-adults,medium,32.3,Obesity
+654,43,0,0,0,0,169,76,0,0,0,23000,middle aged adults,medium,26.61,Overweight
+655,42,1,1,0,0,176,65,0,0,1,23000,middle aged adults,medium,20.98,Normal
+656,63,1,1,0,0,179,75,0,1,1,31000,senior citizens,high,23.41,Normal
+657,39,0,0,0,0,170,54,1,0,1,23000,middle aged adults,medium,18.69,Normal
+658,63,0,0,0,0,170,99,0,0,0,35000,senior citizens,high,34.26,Obesity
+659,66,1,0,0,0,185,69,0,0,0,25000,senior citizens,medium,20.16,Normal
+660,44,0,0,0,0,179,57,0,0,1,23000,middle aged adults,medium,17.79,Underweight
+661,28,0,0,0,0,165,70,0,0,1,15000,Young-adults,,25.71,Overweight
+662,38,0,1,0,0,179,76,0,0,1,23000,middle aged adults,medium,23.72,Normal
+663,53,1,0,0,0,164,65,1,0,1,25000,middle aged adults,medium,24.17,Normal
+664,43,0,0,0,0,175,65,0,0,0,23000,middle aged adults,medium,21.22,Normal
+665,21,0,0,0,0,178,75,0,0,0,15000,Youth,,23.67,Normal
+666,50,0,1,1,0,176,54,1,0,2,30000,middle aged adults,medium,17.43,Underweight
+667,66,1,1,0,0,164,76,0,0,0,29000,senior citizens,medium,28.26,Overweight
+668,27,1,1,0,0,173,56,0,0,1,15000,Young-adults,,18.71,Normal
+669,49,0,1,0,0,163,74,1,0,1,29000,middle aged adults,medium,27.85,Overweight
+670,36,0,0,1,1,166,79,0,0,0,38000,middle aged adults,high,28.67,Overweight
+671,40,1,0,0,0,182,93,0,0,0,23000,middle aged adults,medium,28.08,Overweight
+672,31,0,0,0,1,175,88,0,0,0,23000,Young-adults,medium,28.73,Overweight
+673,59,0,1,0,0,185,70,0,0,1,29000,senior citizens,medium,20.45,Normal
+674,43,1,0,0,0,180,97,0,0,1,23000,middle aged adults,medium,29.94,Overweight
+675,51,1,1,0,0,174,101,0,0,0,35000,middle aged adults,high,33.36,Obesity
+676,22,0,0,0,0,185,101,0,0,0,15000,Youth,,29.51,Overweight
+677,61,0,0,0,0,184,100,0,0,0,35000,senior citizens,high,29.54,Overweight
+678,66,1,0,0,1,165,100,0,0,0,35000,senior citizens,high,36.73,Obesity
+679,65,0,1,0,0,171,81,0,0,2,28000,senior citizens,medium,27.7,Overweight
+680,54,0,1,0,0,184,70,0,1,1,31000,middle aged adults,high,20.68,Normal
+681,34,0,0,0,0,184,60,0,0,0,23000,Young-adults,medium,17.72,Underweight
+682,66,0,1,0,0,183,82,1,0,1,35000,senior citizens,high,24.49,Normal
+683,59,0,0,1,1,179,62,0,0,0,38000,senior citizens,high,19.35,Normal
+684,24,1,0,0,0,174,97,1,1,1,15000,Youth,,32.04,Obesity
+685,51,0,1,0,0,164,64,1,0,1,25000,middle aged adults,medium,23.8,Normal
+686,44,0,0,0,0,176,86,0,0,0,23000,middle aged adults,medium,27.76,Overweight
+687,49,1,1,0,0,174,76,0,0,2,28000,middle aged adults,medium,25.1,Overweight
+688,46,1,1,0,0,184,74,1,0,1,23000,middle aged adults,medium,21.86,Normal
+689,47,0,0,0,1,184,71,0,1,1,30000,middle aged adults,medium,20.97,Normal
+690,53,0,0,0,0,165,72,0,0,0,29000,middle aged adults,medium,26.45,Overweight
+691,35,0,0,0,0,183,55,0,0,0,23000,Young-adults,medium,16.42,Underweight
+692,20,0,0,0,0,163,98,1,0,0,15000,Youth,,36.89,Obesity
+693,48,1,1,0,0,186,59,0,0,1,25000,middle aged adults,medium,17.05,Underweight
+694,66,1,0,0,0,168,101,0,0,0,35000,senior citizens,high,35.79,Obesity
+695,43,0,0,0,1,170,96,1,0,1,30000,middle aged adults,medium,33.22,Obesity
+696,27,0,0,0,0,181,64,0,0,0,15000,Young-adults,,19.54,Normal
+697,22,0,0,0,0,165,87,0,0,0,15000,Youth,,31.96,Obesity
+698,56,1,0,0,0,167,89,1,0,0,29000,senior citizens,medium,31.91,Obesity
+699,59,0,1,0,0,184,60,1,0,1,25000,senior citizens,medium,17.72,Underweight
+700,60,1,0,0,1,174,88,0,0,0,30000,senior citizens,medium,29.07,Overweight
+701,49,1,1,0,1,164,60,0,0,2,28000,middle aged adults,medium,22.31,Normal
+702,29,0,1,0,0,182,83,1,0,0,15000,Young-adults,,25.06,Overweight
+703,43,1,1,0,0,166,56,0,0,0,23000,middle aged adults,medium,20.32,Normal
+704,46,1,1,0,1,173,78,0,1,1,30000,middle aged adults,medium,26.06,Overweight
+705,50,1,0,0,0,176,98,1,0,0,35000,middle aged adults,high,31.64,Obesity
+706,29,0,0,0,0,163,60,0,0,0,15000,Young-adults,,22.58,Normal
+707,47,0,1,0,0,175,57,0,0,0,25000,middle aged adults,medium,18.61,Normal
+708,56,1,0,1,0,185,100,0,0,0,38000,senior citizens,high,29.22,Overweight
+709,33,0,0,0,0,185,87,0,0,0,23000,Young-adults,medium,25.42,Overweight
+710,41,1,0,0,0,164,76,0,0,0,23000,middle aged adults,medium,28.26,Overweight
+711,38,0,0,0,0,163,94,1,0,0,23000,middle aged adults,medium,35.38,Obesity
+712,59,0,1,0,0,173,62,0,0,1,25000,senior citizens,medium,20.72,Normal
+713,57,0,1,0,1,179,95,1,0,1,35000,senior citizens,high,29.65,Overweight
+714,62,1,0,0,0,178,92,0,0,2,28000,senior citizens,medium,29.04,Overweight
+715,32,0,0,1,1,171,57,0,1,1,38000,Young-adults,high,19.49,Normal
+716,54,0,1,0,0,175,61,0,0,0,25000,middle aged adults,medium,19.92,Normal
+717,50,1,1,0,0,175,89,0,0,2,28000,middle aged adults,medium,29.06,Overweight
+718,55,1,1,0,0,169,73,0,0,2,28000,middle aged adults,medium,25.56,Overweight
+719,52,1,0,0,1,175,65,0,0,0,25000,middle aged adults,medium,21.22,Normal
+720,51,1,1,0,0,163,73,0,0,0,29000,middle aged adults,medium,27.48,Overweight
+721,37,0,0,0,0,163,69,0,0,0,23000,middle aged adults,medium,25.97,Overweight
+722,18,0,0,0,0,172,71,0,0,0,15000,,,24.0,Normal
+723,56,1,1,0,0,171,98,0,1,1,35000,senior citizens,high,33.51,Obesity
+724,38,0,0,0,0,178,95,0,0,0,23000,middle aged adults,medium,29.98,Overweight
+725,48,0,0,0,1,163,56,0,0,1,25000,middle aged adults,medium,21.08,Normal
+726,60,0,1,0,1,179,87,0,1,2,28000,senior citizens,medium,27.15,Overweight
+727,45,1,1,0,0,176,58,0,0,0,25000,middle aged adults,medium,18.72,Normal
+728,23,0,0,0,0,173,59,0,0,0,15000,Youth,,19.71,Normal
+729,57,1,1,0,0,164,67,0,1,2,28000,senior citizens,medium,24.91,Normal
+730,39,0,0,0,0,172,92,0,0,0,23000,middle aged adults,medium,31.1,Obesity
+731,65,1,1,0,0,165,87,0,0,0,29000,senior citizens,medium,31.96,Obesity
+732,50,1,0,0,0,177,100,0,0,0,35000,middle aged adults,high,31.92,Obesity
+733,56,0,1,0,0,165,88,0,0,2,28000,senior citizens,medium,32.32,Obesity
+734,27,1,0,0,0,177,82,0,0,0,15000,Young-adults,,26.17,Overweight
+735,50,0,0,0,0,169,98,0,0,2,28000,middle aged adults,medium,34.31,Obesity
+736,66,1,1,0,0,185,68,0,0,2,28000,senior citizens,medium,19.87,Normal
+737,53,1,1,0,1,171,83,0,0,2,28000,middle aged adults,medium,28.38,Overweight
+738,26,1,1,0,1,179,73,0,0,1,19000,Young-adults,low,22.78,Normal
+739,25,0,1,0,0,170,84,1,1,1,15000,Youth,,29.07,Overweight
+740,27,0,0,1,1,168,83,0,0,0,38000,Young-adults,high,29.41,Overweight
+741,19,0,0,0,0,171,72,0,0,0,15000,Youth,,24.62,Normal
+742,56,0,1,0,0,175,72,0,0,1,29000,senior citizens,medium,23.51,Normal
+743,33,0,0,0,1,174,84,0,0,0,23000,Young-adults,medium,27.74,Overweight
+744,19,1,0,0,0,164,76,1,1,1,15000,Youth,,28.26,Overweight
+745,24,1,1,0,0,166,80,0,0,0,15000,Youth,,29.03,Overweight
+746,24,0,0,1,0,176,83,0,0,0,15000,Youth,,26.79,Overweight
+747,37,0,0,0,0,186,76,0,0,1,23000,middle aged adults,medium,21.97,Normal
+748,42,0,0,0,1,185,101,0,0,0,30000,middle aged adults,medium,29.51,Overweight
+749,20,1,0,0,0,179,84,1,0,1,15000,Youth,,26.22,Overweight
+750,63,0,0,0,0,165,94,0,0,0,29000,senior citizens,medium,34.53,Obesity
+751,21,0,0,0,0,154,80,0,0,0,15000,Youth,,33.73,Obesity
+752,65,1,1,0,0,155,85,1,1,1,35000,senior citizens,high,35.38,Obesity
+753,30,0,1,0,0,159,87,0,0,1,23000,Young-adults,medium,34.41,Obesity
+754,32,0,0,0,1,159,74,0,0,0,23000,Young-adults,medium,29.27,Overweight
+755,53,0,1,0,1,177,76,0,0,2,28000,middle aged adults,medium,24.26,Normal
+756,64,0,1,0,0,170,58,0,0,2,28000,senior citizens,medium,20.07,Normal
+757,44,0,0,0,0,176,60,1,0,0,23000,middle aged adults,medium,19.37,Normal
+758,46,1,1,0,1,175,58,0,0,0,25000,middle aged adults,medium,18.94,Normal
+759,27,1,1,0,0,161,78,0,0,0,15000,Young-adults,,30.09,Obesity
+760,43,0,1,0,0,171,63,0,0,0,23000,middle aged adults,medium,21.55,Normal
+761,23,0,1,0,0,147,87,0,0,0,15000,Youth,,40.26,Extreme Obesity
+762,19,0,0,0,0,146,55,0,0,0,15000,Youth,,25.8,Overweight
+763,43,1,0,0,0,172,85,0,0,0,23000,middle aged adults,medium,28.73,Overweight
+764,18,1,1,0,0,169,98,0,0,0,15000,,,34.31,Obesity
+765,25,0,1,0,1,164,74,0,0,0,30000,Youth,medium,27.51,Overweight
+766,59,0,0,0,0,149,94,0,0,1,29000,senior citizens,medium,42.34,Extreme Obesity
+767,59,0,1,0,0,162,60,0,0,2,28000,senior citizens,medium,22.86,Normal
+768,30,1,1,0,1,164,65,0,0,0,21000,Young-adults,medium,24.17,Normal
+769,59,1,1,0,0,170,55,0,0,0,25000,senior citizens,medium,19.03,Normal
+770,53,0,1,0,1,175,71,0,0,1,30000,middle aged adults,medium,23.18,Normal
+771,40,1,1,0,1,156,71,0,0,0,30000,middle aged adults,medium,29.17,Overweight
+772,41,1,0,0,0,156,58,0,0,0,23000,middle aged adults,medium,23.83,Normal
+773,49,1,0,0,0,159,62,0,0,0,25000,middle aged adults,medium,24.52,Normal
+774,47,1,0,0,0,162,97,0,0,0,35000,middle aged adults,high,36.96,Obesity
+775,65,1,1,0,0,149,93,0,0,2,28000,senior citizens,medium,41.89,Extreme Obesity
+776,42,0,0,0,1,149,88,0,1,1,30000,middle aged adults,medium,39.64,Obesity
+777,42,1,1,0,0,153,80,0,0,0,23000,middle aged adults,medium,34.17,Obesity
+778,41,0,1,0,0,161,79,1,0,0,23000,middle aged adults,medium,30.48,Obesity
+779,45,0,1,0,0,172,54,0,1,1,25000,middle aged adults,medium,18.25,Underweight
+780,34,0,0,0,0,177,56,1,0,1,23000,Young-adults,medium,17.87,Underweight
+781,32,1,0,0,0,164,62,0,0,0,21000,Young-adults,medium,23.05,Normal
+782,24,1,0,0,0,149,92,1,0,0,15000,Youth,,41.44,Extreme Obesity
+783,63,0,1,0,1,159,85,1,0,1,30000,senior citizens,medium,33.62,Obesity
+784,56,0,1,0,0,164,88,0,0,0,29000,senior citizens,medium,32.72,Obesity
+785,60,0,1,0,0,159,60,0,0,2,28000,senior citizens,medium,23.73,Normal
+786,27,0,0,0,0,151,68,0,0,0,15000,Young-adults,,29.82,Overweight
+787,27,0,1,0,0,156,86,0,0,1,15000,Young-adults,,35.34,Obesity
+788,30,0,0,1,0,158,81,0,1,1,27000,Young-adults,medium,32.45,Obesity
+789,47,1,1,0,0,150,96,0,0,1,35000,middle aged adults,high,42.67,Extreme Obesity
+790,36,1,0,0,0,166,61,0,0,0,23000,middle aged adults,medium,22.14,Normal
+791,58,0,1,0,0,159,84,0,0,1,29000,senior citizens,medium,33.23,Obesity
+792,20,1,0,0,0,171,59,0,0,0,15000,Youth,,20.18,Normal
+793,32,0,0,0,1,145,86,1,0,1,23000,Young-adults,medium,40.9,Extreme Obesity
+794,33,0,1,0,0,154,82,0,0,0,23000,Young-adults,medium,34.58,Obesity
+795,18,0,0,0,0,148,75,1,0,0,15000,,,34.24,Obesity
+796,29,0,0,0,1,151,97,0,0,0,19000,Young-adults,low,42.54,Extreme Obesity
+797,34,0,0,0,1,164,94,0,0,0,23000,Young-adults,medium,34.95,Obesity
+798,57,1,1,0,0,162,86,1,0,2,28000,senior citizens,medium,32.77,Obesity
+799,44,0,0,0,0,155,57,1,1,1,31000,middle aged adults,high,23.73,Normal
+800,33,0,0,0,0,176,62,0,0,0,21000,Young-adults,medium,20.02,Normal
+801,24,1,0,1,0,162,78,0,0,1,15000,Youth,,29.72,Overweight
+802,22,0,1,0,0,156,57,0,0,1,15000,Youth,,23.42,Normal
+803,36,0,0,0,0,174,58,0,0,0,23000,middle aged adults,medium,19.16,Normal
+804,44,0,1,1,0,151,85,1,0,1,38000,middle aged adults,high,37.28,Obesity
+805,29,1,0,0,0,178,78,0,0,0,15000,Young-adults,,24.62,Normal
+806,27,0,0,0,1,177,71,1,0,1,19000,Young-adults,low,22.66,Normal
+807,62,1,0,0,0,156,78,0,0,0,29000,senior citizens,medium,32.05,Obesity
+808,33,0,0,0,1,146,59,1,0,0,21000,Young-adults,medium,27.68,Overweight
+809,48,0,0,0,1,161,95,0,0,1,35000,middle aged adults,high,36.65,Obesity
+810,25,0,1,0,0,173,95,1,0,0,15000,Youth,,31.74,Obesity
+811,35,0,0,0,1,165,94,0,0,0,23000,Young-adults,medium,34.53,Obesity
+812,62,0,0,0,0,169,100,0,0,0,35000,senior citizens,high,35.01,Obesity
+813,33,0,0,0,0,153,66,0,0,0,21000,Young-adults,medium,28.19,Overweight
+814,47,0,0,0,1,177,73,1,0,1,30000,middle aged adults,medium,23.3,Normal
+815,48,0,0,0,0,161,74,1,0,1,23000,middle aged adults,medium,28.55,Overweight
+816,42,0,0,0,0,175,57,0,0,0,23000,middle aged adults,medium,18.61,Normal
+817,65,1,0,1,0,171,94,0,0,3,28000,senior citizens,medium,32.15,Obesity
+818,65,1,0,0,0,165,99,0,0,3,28000,senior citizens,medium,36.36,Obesity
+819,50,0,0,0,0,147,64,0,0,1,25000,middle aged adults,medium,29.62,Overweight
+820,40,0,1,0,0,161,67,1,1,1,31000,middle aged adults,high,25.85,Overweight
+821,65,1,1,0,0,169,80,0,0,2,28000,senior citizens,medium,28.01,Overweight
+822,18,0,1,0,0,163,82,0,0,0,15000,,,30.86,Obesity
+823,62,1,1,0,0,150,64,0,0,2,28000,senior citizens,medium,28.44,Overweight
+824,36,1,1,0,0,157,95,0,0,0,23000,middle aged adults,medium,38.54,Obesity
+825,32,0,1,0,0,177,98,0,1,1,25000,Young-adults,medium,31.28,Obesity
+826,52,0,1,0,1,148,70,0,1,2,28000,middle aged adults,medium,31.96,Obesity
+827,27,0,0,0,0,175,86,0,0,1,15000,Young-adults,,28.08,Overweight
+828,65,1,1,0,0,158,83,0,0,0,29000,senior citizens,medium,33.25,Obesity
+829,31,0,0,0,0,150,91,1,0,1,23000,Young-adults,medium,40.44,Extreme Obesity
+830,52,1,1,0,0,176,82,0,1,1,31000,middle aged adults,high,26.47,Overweight
+831,26,0,0,0,1,147,67,0,0,0,21000,Young-adults,medium,31.01,Obesity
+832,40,0,0,0,0,170,83,0,0,0,23000,middle aged adults,medium,28.72,Overweight
+833,25,1,0,0,0,151,92,0,1,1,15000,Youth,,40.35,Extreme Obesity
+834,21,0,1,0,0,156,99,0,0,0,15000,Youth,,40.68,Extreme Obesity
+835,21,0,0,0,0,176,88,0,0,0,15000,Youth,,28.41,Overweight
+836,29,1,0,0,0,145,62,0,0,0,15000,Young-adults,,29.49,Overweight
+837,50,0,1,0,0,164,74,0,0,2,28000,middle aged adults,medium,27.51,Overweight
+838,44,0,0,0,0,174,57,0,0,0,23000,middle aged adults,medium,18.83,Normal
+839,56,1,1,0,1,159,59,0,0,2,28000,senior citizens,medium,23.34,Normal
+840,48,0,0,0,0,150,89,0,0,0,23000,middle aged adults,medium,39.56,Obesity
+841,56,1,0,1,0,149,65,0,0,2,28000,senior citizens,medium,29.28,Overweight
+842,50,0,0,0,1,174,72,0,0,0,30000,middle aged adults,medium,23.78,Normal
+843,60,1,1,0,1,145,63,0,0,2,28000,senior citizens,medium,29.96,Overweight
+844,18,0,0,0,0,154,60,0,0,0,15000,,,25.3,Overweight
+845,41,0,0,0,0,166,58,0,0,0,23000,middle aged adults,medium,21.05,Normal
+846,35,0,1,0,0,160,75,0,0,0,23000,Young-adults,medium,29.3,Overweight
+847,24,1,0,0,0,174,100,0,0,0,15000,Youth,,33.03,Obesity
+848,22,0,0,0,0,169,86,1,1,1,15000,Youth,,30.11,Obesity
+849,20,0,0,0,0,169,66,0,0,0,15000,Youth,,23.11,Normal
+850,48,1,0,0,0,153,74,1,1,1,31000,middle aged adults,high,31.61,Obesity
+851,18,0,0,0,0,170,72,0,0,1,15000,,,24.91,Normal
+852,61,0,1,0,1,163,66,0,0,1,25000,senior citizens,medium,24.84,Normal
+853,37,1,1,0,0,150,69,0,0,0,23000,middle aged adults,medium,30.67,Obesity
+854,54,0,1,0,1,156,67,0,0,2,28000,middle aged adults,medium,27.53,Overweight
+855,29,1,0,0,0,156,74,0,0,0,15000,Young-adults,,30.41,Obesity
+856,21,0,0,0,0,170,75,0,0,0,15000,Youth,,25.95,Overweight
+857,55,0,0,0,0,153,73,0,0,0,29000,middle aged adults,medium,31.18,Obesity
+858,65,0,1,0,1,166,73,0,0,1,35000,senior citizens,high,26.49,Overweight
+859,28,1,0,0,0,160,69,0,0,0,15000,Young-adults,,26.95,Overweight
+860,61,1,0,0,0,161,66,0,0,3,28000,senior citizens,medium,25.46,Overweight
+861,44,0,0,0,0,162,75,0,0,0,23000,middle aged adults,medium,28.58,Overweight
+862,53,0,1,0,1,172,75,0,0,1,30000,middle aged adults,medium,25.35,Overweight
+863,25,0,0,1,0,175,74,0,0,0,15000,Youth,,24.16,Normal
+864,33,1,1,0,0,169,73,1,0,1,23000,Young-adults,medium,25.56,Overweight
+865,66,0,1,1,0,154,66,1,0,1,35000,senior citizens,high,27.83,Overweight
+866,28,1,1,0,0,147,69,0,0,1,15000,Young-adults,,31.93,Obesity
+867,62,1,1,0,0,166,67,0,0,1,25000,senior citizens,medium,24.31,Normal
+868,25,0,0,0,0,164,66,0,0,0,15000,Youth,,24.54,Normal
+869,18,0,1,0,0,164,68,0,0,1,15000,,,25.28,Overweight
+870,39,1,0,0,0,168,68,1,1,1,31000,middle aged adults,high,24.09,Normal
+871,28,1,0,0,0,175,68,0,0,1,15000,Young-adults,,22.2,Normal
+872,42,0,0,0,0,155,69,0,0,1,23000,middle aged adults,medium,28.72,Overweight
+873,35,1,0,0,0,173,69,0,0,0,23000,Young-adults,medium,23.05,Normal
+874,51,1,1,0,0,152,72,0,0,1,29000,middle aged adults,medium,31.16,Obesity
+875,48,1,0,0,0,150,67,0,1,1,25000,middle aged adults,medium,29.78,Overweight
+876,51,1,1,0,0,164,66,0,0,1,25000,middle aged adults,medium,24.54,Normal
+877,23,0,0,0,0,148,69,0,0,0,15000,Youth,,31.5,Obesity
+878,53,0,1,0,1,158,68,0,0,2,28000,middle aged adults,medium,27.24,Overweight
+879,31,1,1,0,0,147,68,0,0,0,23000,Young-adults,medium,31.47,Obesity
+880,44,0,0,0,1,148,66,1,0,1,30000,middle aged adults,medium,30.13,Obesity
+881,51,0,1,0,0,170,67,0,1,1,25000,middle aged adults,medium,23.18,Normal
+882,37,0,1,0,1,165,67,0,0,0,23000,middle aged adults,medium,24.61,Normal
+883,22,0,1,0,0,171,72,0,1,1,15000,Youth,,24.62,Normal
+884,46,0,0,0,1,154,75,1,0,1,30000,middle aged adults,medium,31.62,Obesity
+885,22,1,0,0,0,157,72,0,1,1,15000,Youth,,29.21,Overweight
+886,52,0,0,0,0,170,66,0,0,0,25000,middle aged adults,medium,22.84,Normal
+887,32,1,1,0,0,161,68,0,0,0,23000,Young-adults,medium,26.23,Overweight
+888,45,1,1,0,0,164,68,0,0,1,25000,middle aged adults,medium,25.28,Overweight
+889,43,0,1,0,0,151,70,1,0,1,23000,middle aged adults,medium,30.7,Obesity
+890,58,1,0,0,0,147,75,0,0,0,29000,senior citizens,medium,34.71,Obesity
+891,42,1,1,0,0,147,67,0,0,0,23000,middle aged adults,medium,31.01,Obesity
+892,62,0,1,0,0,158,67,1,0,1,25000,senior citizens,medium,26.84,Overweight
+893,45,0,0,0,0,164,72,0,0,0,23000,middle aged adults,medium,26.77,Overweight
+894,47,0,1,0,0,175,69,1,0,1,25000,middle aged adults,medium,22.53,Normal
+895,27,0,0,0,0,170,71,0,0,0,15000,Young-adults,,24.57,Normal
+896,18,0,0,0,0,153,75,0,0,0,15000,,,32.04,Obesity
+897,55,0,1,0,0,160,71,0,0,2,28000,middle aged adults,medium,27.73,Overweight
+898,38,1,0,0,0,171,70,0,0,0,23000,middle aged adults,medium,23.94,Normal
+899,37,0,0,0,1,157,71,1,0,1,23000,middle aged adults,medium,28.8,Overweight
+900,51,0,1,0,0,178,69,0,1,1,25000,middle aged adults,medium,21.78,Normal
+901,19,1,0,0,0,150,72,0,0,0,15000,Youth,,32.0,Obesity
+902,34,1,1,0,1,157,73,0,0,0,23000,Young-adults,medium,29.62,Overweight
+903,57,1,1,0,1,166,73,1,0,2,28000,senior citizens,medium,26.49,Overweight
+904,34,0,0,0,0,149,75,0,0,0,23000,Young-adults,medium,33.78,Obesity
+905,39,1,1,0,1,175,74,0,0,1,23000,middle aged adults,medium,24.16,Normal
+906,55,1,0,1,0,170,70,0,0,2,28000,middle aged adults,medium,24.22,Normal
+907,30,0,1,0,0,159,69,0,1,1,25000,Young-adults,medium,27.29,Overweight
+908,62,0,0,0,1,162,71,0,0,0,30000,senior citizens,medium,27.05,Overweight
+909,25,0,1,0,0,177,74,0,0,1,15000,Youth,,23.62,Normal
+910,19,0,0,0,0,154,71,1,0,0,15000,Youth,,29.94,Overweight
+911,51,0,1,0,0,153,72,0,0,1,29000,middle aged adults,medium,30.76,Obesity
+912,30,1,1,0,0,177,71,1,0,1,23000,Young-adults,medium,22.66,Normal
+913,40,0,0,0,0,151,70,0,0,0,23000,middle aged adults,medium,30.7,Obesity
+914,21,0,0,0,0,149,69,0,0,0,15000,Youth,,31.08,Obesity
+915,54,0,1,1,1,156,73,0,0,2,28000,middle aged adults,medium,30.0,Overweight
+916,63,1,1,0,0,163,66,0,0,1,25000,senior citizens,medium,24.84,Normal
+917,66,1,1,0,0,178,66,0,0,2,28000,senior citizens,medium,20.83,Normal
+918,43,1,0,0,0,173,75,0,0,1,23000,middle aged adults,medium,25.06,Overweight
+919,47,0,1,0,0,172,71,1,0,1,23000,middle aged adults,medium,24.0,Normal
+920,29,0,0,0,0,170,67,1,0,0,15000,Young-adults,,23.18,Normal
+921,53,1,0,0,0,145,75,0,0,0,29000,middle aged adults,medium,35.67,Obesity
+922,33,0,0,1,0,162,70,0,0,0,38000,Young-adults,high,26.67,Overweight
+923,21,0,0,0,0,148,73,0,0,0,15000,Youth,,33.33,Obesity
+924,62,1,1,0,0,159,68,0,0,0,25000,senior citizens,medium,26.9,Overweight
+925,41,1,0,0,0,148,67,0,1,1,31000,middle aged adults,high,30.59,Obesity
+926,24,0,1,0,0,159,67,0,0,0,39000,Youth,high,26.5,Overweight
+927,31,0,0,1,0,154,73,0,1,1,38000,Young-adults,high,30.78,Obesity
+928,19,0,0,0,0,171,67,0,0,1,39000,Youth,high,22.91,Normal
+929,22,0,1,0,0,175,72,0,0,0,15000,Youth,,23.51,Normal
+930,41,1,1,0,0,164,75,1,0,1,23000,middle aged adults,medium,27.89,Overweight
+931,61,0,1,0,1,156,69,0,0,1,25000,senior citizens,medium,28.35,Overweight
+932,42,0,0,1,0,156,75,1,0,1,38000,middle aged adults,high,30.82,Obesity
+933,54,0,1,0,0,161,69,0,1,1,25000,middle aged adults,medium,26.62,Overweight
+934,54,1,1,0,0,160,70,0,1,1,31000,middle aged adults,high,27.34,Overweight
+935,38,0,1,0,1,170,71,0,1,1,31000,middle aged adults,high,24.57,Normal
+936,19,1,0,0,0,165,69,1,0,1,15000,Youth,,25.34,Overweight
+937,48,1,1,0,1,168,68,0,0,0,25000,middle aged adults,medium,24.09,Normal
+938,31,0,0,1,1,174,66,0,0,1,38000,Young-adults,high,21.8,Normal
+939,43,0,0,0,0,159,72,0,0,1,23000,middle aged adults,medium,28.48,Overweight
+940,40,1,1,0,1,155,66,0,0,1,30000,middle aged adults,medium,27.47,Overweight
+941,35,1,0,0,0,176,68,0,0,0,23000,Young-adults,medium,21.95,Normal
+942,25,1,1,0,1,151,70,0,0,0,19000,Youth,low,30.7,Obesity
+943,53,0,0,0,0,173,66,0,1,1,25000,middle aged adults,medium,22.05,Normal
+944,43,0,0,0,0,166,73,0,0,1,23000,middle aged adults,medium,26.49,Overweight
+945,55,0,0,0,0,157,73,0,0,0,29000,middle aged adults,medium,29.62,Overweight
+946,45,0,1,0,0,165,73,1,0,0,23000,middle aged adults,medium,26.81,Overweight
+947,29,0,0,0,0,154,72,0,0,0,15000,Young-adults,,30.36,Obesity
+948,60,1,1,0,0,155,69,0,0,0,25000,senior citizens,medium,28.72,Overweight
+949,30,1,1,0,0,152,71,0,0,1,23000,Young-adults,medium,30.73,Obesity
+950,52,1,1,0,0,161,67,0,0,2,28000,middle aged adults,medium,25.85,Overweight
+951,25,0,0,1,0,161,69,1,0,1,15000,Youth,,26.62,Overweight
+952,44,1,0,1,0,174,66,0,0,1,38000,middle aged adults,high,21.8,Normal
+953,62,1,1,0,0,157,66,0,0,3,28000,senior citizens,medium,26.78,Overweight
+954,63,1,1,0,0,158,73,0,0,3,28000,senior citizens,medium,29.24,Overweight
+955,21,1,0,0,0,147,66,0,0,0,15000,Youth,,30.54,Obesity
+956,46,1,1,0,0,146,67,0,0,0,25000,middle aged adults,medium,31.43,Obesity
+957,27,1,1,0,0,155,75,0,0,1,15000,Young-adults,,31.22,Obesity
+958,18,0,0,0,0,162,70,0,0,0,15000,,,26.67,Overweight
+959,66,0,1,0,0,153,75,0,0,2,28000,senior citizens,medium,32.04,Obesity
+960,23,0,0,0,0,175,73,0,0,0,15000,Youth,,23.84,Normal
+961,59,1,1,0,0,154,66,0,1,1,25000,senior citizens,medium,27.83,Overweight
+962,32,1,1,0,0,166,70,1,0,0,23000,Young-adults,medium,25.4,Overweight
+963,49,1,0,0,0,147,67,0,0,1,25000,middle aged adults,medium,31.01,Obesity
+964,27,1,0,0,0,162,69,0,0,0,15000,Young-adults,,26.29,Overweight
+965,35,1,1,0,0,165,67,0,0,1,23000,Young-adults,medium,24.61,Normal
+966,66,0,1,0,1,176,71,1,0,1,35000,senior citizens,high,22.92,Normal
+967,42,1,1,0,0,152,67,1,0,1,23000,middle aged adults,medium,29.0,Overweight
+968,18,0,0,0,0,160,73,0,0,0,15000,,,28.52,Overweight
+969,45,0,1,0,0,168,66,0,0,0,25000,middle aged adults,medium,23.38,Normal
+970,46,1,1,0,0,168,75,0,0,1,23000,middle aged adults,medium,26.57,Overweight
+971,26,0,0,0,0,178,66,0,0,0,15000,Young-adults,,20.83,Normal
+972,31,0,1,0,0,152,75,1,0,1,23000,Young-adults,medium,32.46,Obesity
+973,28,0,0,0,0,167,66,0,0,0,15000,Young-adults,,23.67,Normal
+974,47,1,0,0,0,170,66,0,0,0,25000,middle aged adults,medium,22.84,Normal
+975,44,0,1,0,0,161,75,0,0,0,23000,middle aged adults,medium,28.93,Overweight
+976,21,0,1,0,0,155,74,0,0,0,39000,Youth,high,30.8,Obesity
+977,45,0,1,0,1,157,67,0,0,1,25000,middle aged adults,medium,27.18,Overweight
+978,40,0,1,1,0,168,70,0,0,0,17000,middle aged adults,low,24.8,Normal
+979,24,0,0,0,0,161,71,0,0,0,15000,Youth,,27.39,Overweight
+980,40,0,1,1,0,171,74,0,0,0,38000,middle aged adults,high,25.31,Overweight
+981,18,0,0,0,0,169,67,0,0,0,15000,,,23.46,Normal
+982,64,1,1,0,0,153,70,0,0,3,28000,senior citizens,medium,29.9,Overweight
+983,56,0,1,0,0,155,71,0,0,1,29000,senior citizens,medium,29.55,Overweight
+984,47,1,1,0,0,158,73,1,0,1,39000,middle aged adults,high,29.24,Overweight
+985,21,0,0,0,0,158,75,1,0,1,15000,Youth,,30.04,Obesity
