@@ -4,7 +4,7 @@ import pandas as pd
 import datetime
 import pickle
 
-insurance_df = pd.read_csv("/Users/Varshini/PycharmProjects/PythonProject/insurance_pred.csv")
+insurance_df = pd.read_csv("insurance_pred.csv")
 st.write(
     """
     # Insurance cost prediction
@@ -24,7 +24,7 @@ encode_dict = {
 
 def model_pred(Age, BMI, Surgery_nos, Transplants, BP_problems, Chronic_ds):
     # loading the model
-    with open("/Users/Varshini/PycharmProjects/PythonProject/insurance.pkl", "rb") as file:
+    with open("insurance.pkl", "rb") as file:
             reg_model = pickle.load(file)
             input_features = [[Age, BMI, Surgery_nos, Transplants, BP_problems, Chronic_ds]]
             return reg_model.predict(input_features)
