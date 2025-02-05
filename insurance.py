@@ -36,7 +36,7 @@ Age = col1.slider("Select the age", 15, 70,step=2)
 Surgery_nos = col1.selectbox("Number of surgeries done", [0,1,2,3])
 BP_problems = col1.selectbox("Select if the beneficiary has Blood pressure issues or not",
                            ["Yes", "No"])
-BMI = col2.slider("BMI value", 15.00 , 50.00, step=1.00)
+BMI = col2.slider("BMI(Body Mass Index) value", 15.00 , 50.00, step=1.00)
 Transplants = col2.selectbox("Select if the beneficiary has any transplants done or not",
                                    ["Yes", "No"])
 Chronic_ds = col2.selectbox("Select if the beneficiary has any chronic disease or not",
